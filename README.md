@@ -27,7 +27,7 @@ Essa solução visa proporcionar maior autonomia e segurança aos deficientes vi
 
 <p align="center"><strong>SUMÁRIO</strong></p>
 
-<p align="center">
+<p align="justyfied">
   <a href="./Introducao.md"><strong>1. INTRODUÇÃO</strong></a><br>
   <a href="./Referencial_teorico.md"><strong>2. REFERENCIAL TEÓRICO</strong></a><br>
   <a href="./Materiais_e_metodos.md"><strong>3. MATERIAIS E MÉTODOS</strong></a><br>

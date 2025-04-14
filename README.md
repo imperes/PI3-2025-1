@@ -25,10 +25,12 @@ Quando o ônibus chega ao ponto solicitado, o motorista pressiona um botão que 
 
 Essa solução visa proporcionar maior autonomia e segurança aos deficientes visuais, contribuindo para uma cidade mais inclusiva e acessível.
 
-<p align=center><strong>SUMÁRIO</strong></p>
+<p align="center"><strong>SUMÁRIO</strong></p>
 
-[**1. INTRODUÇÃO**](./Introducao.md)<br>
-[**2. REFERENCIAL TEÓRICO**](./Referencial_teorico.md)<br>
-[**3. MATERIAIS E MÉTODOS**](./Materiais_e_metodos.md)<br>
-[**4. CONCLUSÃO**](./Conclusao.md)<br>
-[**5. REFERÊNCIAIS BIBLIOGRÁFICAS**](./Referencias_bibliograficas.md)<br>
+<p align="center">
+  <a href="./Introducao.md"><strong>1. INTRODUÇÃO</strong></a><br>
+  <a href="./Referencial_teorico.md"><strong>2. REFERENCIAL TEÓRICO</strong></a><br>
+  <a href="./Materiais_e_metodos.md"><strong>3. MATERIAIS E MÉTODOS</strong></a><br>
+  <a href="./Conclusao.md"><strong>4. CONCLUSÃO</strong></a><br>
+  <a href="./Referencias_bibliograficas.md"><strong>5. REFERÊNCIAS BIBLIOGRÁFICAS</strong></a>
+</p>

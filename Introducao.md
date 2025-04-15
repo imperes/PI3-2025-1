@@ -1,4 +1,4 @@
-# Introdução
+# 1. Introdução
 
 A mobilidade urbana representa um desafio significativo para milhões de brasileiros que dependem do transporte público para atividades essenciais, como trabalhar, estudar e realizar compras. O crescimento desordenado das cidades, aliado a altos índices de congestionamento, infraestrutura deficiente e barreiras de acessibilidade, compromete a autonomia e a independência de diversos grupos, especialmente pessoas com deficiência visual. Essas barreiras dificultam a utilização eficiente e segura dos serviços de transporte coletivo, impactando diretamente a qualidade de vida e a inclusão social desses usuários.
 
@@ -38,3 +38,12 @@ O sistema proposto está em conformidade com os princípios da **Lei Brasileira 
 Além disso, a solução pode servir como um modelo escalável para outras cidades brasileiras e internacionais, contribuindo para o avanço de políticas públicas voltadas à mobilidade urbana acessível. A integração de transceptores bidirecionais representa uma inovação prática e de baixo custo relativo, com potencial para ser adaptada a diferentes contextos urbanos e tipos de deficiência, como deficiências auditivas ou motoras, mediante ajustes no design do sistema.
 
 A adoção dessa tecnologia não apenas atende às necessidades de uma parcela específica da população, mas também beneficia a sociedade como um todo, promovendo cidades mais inclusivas, equitativas e sustentáveis. Testes em cenários reais e estudos de usabilidade futuros serão fundamentais para avaliar a eficácia do sistema, otimizar sua funcionalidade e explorar sua expansão para outras aplicações no âmbito da mobilidade urbana e da tecnologia assistiva.
+
+---
+
+<p align="justyfied">
+  <a href="./Referencial_teorico.md"><strong>2. REFERENCIAL TEÓRICO</strong></a><br>
+  <a href="./Materiais_e_metodos.md"><strong>3. MATERIAIS E MÉTODOS</strong></a><br>
+  <a href="./Conclusao.md"><strong>4. CONCLUSÃO</strong></a><br>
+  <a href="./Referencias_bibliograficas.md"><strong>5. REFERÊNCIAS BIBLIOGRÁFICAS</strong></a>
+</p>

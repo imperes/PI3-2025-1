@@ -42,6 +42,7 @@ A adoção dessa tecnologia não apenas atende às necessidades de uma parcela e
 ---
 
 <p align="justyfied">
+  <a href="./README.md"><strong>RESUMO</strong></a><br>
   <a href="./Referencial_teorico.md"><strong>2. REFERENCIAL TEÓRICO</strong></a><br>
   <a href="./Materiais_e_metodos.md"><strong>3. MATERIAIS E MÉTODOS</strong></a><br>
   <a href="./Conclusao.md"><strong>4. CONCLUSÃO</strong></a><br>

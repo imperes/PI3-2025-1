@@ -39,6 +39,43 @@ Além disso, a solução pode servir como um modelo escalável para outras cidad
 
 A adoção dessa tecnologia não apenas atende às necessidades de uma parcela específica da população, mas também beneficia a sociedade como um todo, promovendo cidades mais inclusivas, equitativas e sustentáveis. Testes em cenários reais e estudos de usabilidade futuros serão fundamentais para avaliar a eficácia do sistema, otimizar sua funcionalidade e explorar sua expansão para outras aplicações no âmbito da mobilidade urbana e da tecnologia assistiva.
 
+## 1.1 Justificativa
+
+Conforme dados da Pesquisa Nacional por Amostra de Domicílios Contínua (PNAD Contínua) de 2022, o Brasil possui aproximadamente 18,6 milhões de pessoas com deficiência, representando 8,9% da população com 2 anos ou mais de idade ([GOV.BR, 2023](https://www.gov.br/mdh/pt-br/assuntos/noticias/2023/julho/brasil-tem-18-6-milhoes-de-pessoas-com-deficiencia-indica-pesquisa-divulgada-pelo-ibge-e-mdhc)).
+
+Dentre essas, mais de 6,5 milhões têm deficiência visual, sendo cerca de 500 mil pessoas cegas e aproximadamente 6 milhões com baixa visão ([UNIVALI, 2023](https://www.univali.br/noticias/Paginas/ibge-aponta-que-mais-de-6-milhoes-de-pessoas-tem-deficiencia-visual-no-brasil.aspx)).
+
+Apesar de avanços legislativos, como a Lei Brasileira de Inclusão da Pessoa com Deficiência (Lei nº 13.146/2015), ainda existem desafios significativos na acessibilidade ao transporte público para essa população. A falta de informações acessíveis e de tecnologias assistivas adequadas compromete a autonomia e a inclusão social dos deficientes visuais.
+
+Nesse contexto, o desenvolvimento de dispositivos eletrônicos que ampliem as possibilidades de mobilidade e independência para pessoas com deficiência visual torna-se fundamental.
+
+## 1.2 Problema
+
+A ausência de independência e as limitações de acessibilidade enfrentadas por deficientes visuais na utilização do transporte público comprometem sua autonomia e inclusão social.
+
+**Questão de pesquisa:**  
+Como aumentar a independência dos deficientes visuais no embarque em transportes públicos?
+
+## 1.3 Hipótese
+
+O desenvolvimento de um dispositivo eletrônico baseado em tecnologia assistiva, que permita ao usuário sinalizar sua presença e destino ao motorista do transporte público, pode promover maior independência e inclusão social para deficientes visuais, reduzindo a necessidade de auxílio de terceiros.
+
+## 1.4 Objetivo
+
+Criar um dispositivo eletrônico destinado a deficientes visuais, que possibilite a sinalização ao motorista para parada no ponto de ônibus onde o usuário se encontra, sem a necessidade de auxílio de terceiros. Essa iniciativa visa superar as dificuldades de locomoção urbana e promover a inclusão social, conforme preconizado pela Lei Brasileira de Inclusão da Pessoa com Deficiência (Lei nº 13.146/2015).
+
+---
+
+## Referências
+
+- BRASIL. *Lei nº 13.146, de 6 de julho de 2015*. Institui a Lei Brasileira de Inclusão da Pessoa com Deficiência. Diário Oficial da União, Brasília, DF, 7 jul. 2015. Disponível em: [https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm). Acesso em: 16 abr. 2025.
+
+- GOV.BR. *Brasil tem 18,6 milhões de pessoas com deficiência, indica pesquisa divulgada pelo IBGE e MDHC*. 2023. Disponível em: [https://www.gov.br/mdh/pt-br/assuntos/noticias/2023/julho/brasil-tem-18-6-milhoes-de-pessoas-com-deficiencia-indica-pesquisa-divulgada-pelo-ibge-e-mdhc](https://www.gov.br/mdh/pt-br/assuntos/noticias/2023/julho/brasil-tem-18-6-milhoes-de-pessoas-com-deficiencia-indica-pesquisa-divulgada-pelo-ibge-e-mdhc). Acesso em: 16 abr. 2025.
+
+- UNIVERSIDADE DO VALE DO ITAJAÍ (UNIVALI). *IBGE aponta que mais de 6 milhões de pessoas têm deficiência visual no Brasil*. 2023. Disponível em: [https://www.univali.br/noticias/Paginas/ibge-aponta-que-mais-de-6-milhoes-de-pessoas-tem-deficiencia-visual-no-brasil.aspx](https://www.univali.br/noticias/Paginas/ibge-aponta-que-mais-de-6-milhoes-de-pessoas-tem-deficiencia-visual-no-brasil.aspx). Acesso em: 16 abr. 2025.
+
+- SILVA, T. C. G. da; GUIMARÃES, J. C. de O.; ANDRADE, A. F. G. de. *Tecnologia Assistiva para Auxiliar o Acesso ao Transporte Público por Pessoas com Deficiência*. Diversitas Journal, v. 6, n. 1, p. 746–756, 2021. Disponível em: [https://diversitasjournal.com.br/diversitas_journal/article/view/1495](https://diversitasjournal.com.br/diversitas_journal/article/view/1495). Acesso em: 16 abr. 2025.
+
 ---
 
 <p align="justyfied">

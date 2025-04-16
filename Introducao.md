@@ -1,4 +1,4 @@
-# 1. Introdução
+# 1. INTRODUÇÃO
 
 A mobilidade urbana representa um desafio significativo para milhões de brasileiros que dependem do transporte público para atividades essenciais, como trabalhar, estudar e realizar compras. O crescimento desordenado das cidades, aliado a altos índices de congestionamento, infraestrutura deficiente e barreiras de acessibilidade, compromete a autonomia e a independência de diversos grupos, especialmente pessoas com deficiência visual. Essas barreiras dificultam a utilização eficiente e segura dos serviços de transporte coletivo, impactando diretamente a qualidade de vida e a inclusão social desses usuários.
 

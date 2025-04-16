@@ -72,3 +72,13 @@ Tecnologias como dispositivos com GPS e reconhecimento sonoro, ou aplicativos de
 - DIÁRIO PcD. *30% de deficientes visuais no Brasil são alvo de exploração familiar*. Diário da Pessoa com Deficiência, 16 fev. 2024. Disponível em: [https://diariopcd.com.br/2024/02/16/30-de-deficientes-visuais-no-brasil-sao-alvo-de-exploracao-de-alguma-magnitude-protagonizada-pela-familia](https://diariopcd.com.br/2024/02/16/30-de-deficientes-visuais-no-brasil-sao-alvo-de-exploracao-de-alguma-magnitude-protagonizada-pela-familia). Acesso em: 16 abr. 2025.
 
 - UNIVERSIDADE DO VALE DO ITAJAÍ (UNIVALI). *IBGE aponta que mais de 6 milhões de pessoas têm deficiência visual no Brasil*. Itajaí, 2023. Disponível em: [https://www.univali.br/noticias/Paginas/ibge-aponta-que-mais-de-6-milhoes-de-pessoas-tem-deficiencia-visual-no-brasil.aspx](https://www.univali.br/noticias/Paginas/ibge-aponta-que-mais-de-6-milhoes-de-pessoas-tem-deficiencia-visual-no-brasil.aspx). Acesso em: 16 abr. 2025.
+
+---
+
+<p align="justyfied">
+  <a href="./README.md"><strong>RESUMO</strong></a><br>
+  <a href="./Introducao.md"><strong>1. INTRODUÇÃO</strong></a><br>
+  <a href="./Materiais_e_metodos.md"><strong>3. MATERIAIS E MÉTODOS</strong></a><br>
+  <a href="./Conclusao.md"><strong>4. CONCLUSÃO</strong></a><br>
+  <a href="./Referencias_bibliograficas.md"><strong>5. REFERÊNCIAS BIBLIOGRÁFICAS</strong></a>
+</p>

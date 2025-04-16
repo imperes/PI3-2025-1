@@ -66,7 +66,7 @@ Criar um dispositivo eletrônico destinado a deficientes visuais, que possibilit
 
 ---
 
-## Referências
+## Referências Bibliográficas
 
 - BRASIL. *Lei nº 13.146, de 6 de julho de 2015*. Institui a Lei Brasileira de Inclusão da Pessoa com Deficiência. Diário Oficial da União, Brasília, DF, 7 jul. 2015. Disponível em: [https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm). Acesso em: 16 abr. 2025.
 

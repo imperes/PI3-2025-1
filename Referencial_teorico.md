@@ -6,6 +6,11 @@ De acordo com dados do Instituto Brasileiro de Geografia e Estatística (IBGE), 
 
 Segundo a PNAD Contínua (2022), aproximadamente 18,6 milhões de brasileiros têm algum tipo de deficiência, representando 8,9% da população com 2 anos ou mais. Desses, a maioria enfrenta dificuldades de acesso a serviços públicos, educação e transporte. Além disso, 47,2% das pessoas com deficiência estão na faixa etária acima de 60 anos, o que agrava ainda mais os desafios de mobilidade e acessibilidade ([GOV.BR, 2023](https://www.gov.br/mdh/pt-br/assuntos/noticias/2023/julho/brasil-tem-18-6-milhoes-de-pessoas-com-deficiencia-indica-pesquisa-divulgada-pelo-ibge-e-mdhc)).
 
+<div style="text-align: center; padding: 10px;">
+  <img src="img/grafico-ibge-deficientes-totais.png" width="80%" alt="Percentual das pessoas de 2 anos ou mais de idade com deficiência, segundo
+os tipos de dificuldades funcionais – Brasil - 2022">
+</div>
+
 ## 2.2. Inclusão do Deficiente Visual na Sociedade
 
 A inclusão social de pessoas com deficiência visual é assegurada por legislações como:

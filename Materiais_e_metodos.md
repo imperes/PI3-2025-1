@@ -128,6 +128,26 @@ programados, veja a seguir nas tabelas.
 - I2C, I2S, SPI, UART, ADC, LED PWM, ETM, GDMA, PCNT, PARLIO, RMT, TWAI®, MCPWM, USB Serial/JTAG, sensor de temperatura, Timer de uso geral, watchdog timer;
 - Possibilita interrupção externa através de qualquer um dos 19 GPIOs, configuráveis para borda ou nível.
 
+## 3.1 Orçamento do primeiro protótipo
+O orçamento levantado foi feito em 2017 e a compra dos materiais foram em lojas físicas, o que deixa mais caro os componentes, então esse orçamento é apenas uma base pois comprando online em fornecedores e em escala os valores são ainda menores
+### Orçamento do protótipo do transmissor (usuário/deficiente visual)
+
+<div style="text-align: center; padding: 10px;">
+  <img src="img/orcamento_tx_antigo.png" width="50%" alt="Orçamento do protótipo do transmissor em 2017">
+</div>
+
+### Orçamento do protótipo do receptor (veículo/ônibus)
+
+<div style="text-align: center; padding: 10px;">
+  <img src="img/orcamento_rx_antigo.png" width="50%" alt="Orçamento do protótipo do receptor em 2017">
+</div>
+
+### Orçamento total 
+
+<div style="text-align: center; padding: 10px;">
+  <img src="img/orcamento_total_antigo.png" width="30%" alt="Orçamento do protótipo total em 2017">
+</div>
+
 ---
 
 <p align="justyfied">

@@ -103,3 +103,27 @@ programados, veja a seguir nas tabelas.
 <div style="text-align: center; padding: 10px;">
   <img src="img/tecladomatricial4x3.png" width="30%" alt="Teclado Matricial 4x3">
 </div>
+
+
+
+## Microcontrolador ESP32 H2 MINI1
+<div style="text-align: center; padding: 10px;">
+  <img src="img/esp32.png" width="30%" alt="ESP 32">
+</div>
+
+### Características
+- Sua frequência de operação chega a 96MHz;
+- Sua velocidade de processamento é de aproximadamente 10,42 ns por ciclo de instrução (baseado na frequência máxima, contudo depende do tamanho da instrução);
+- Possui 53 pinos, dos quais 19 são GPIOs (pinos de entrada/saída de uso geral), sendo que 5 pinos podem ser usados como entradas analógicas;
+- Contém baixo consumo de energia, como Light-sleep (85 µA) e Deep-sleep (7 µA).
+### Memórias
+- Até 4 MB (ou 2 MB, dependendo do modelo) de memória flash integrada para programa e dados;
+- Até 320 KB de SRAM (memória de dados) e 4 KB de LP Memory (memória de baixa potência);
+- Não possui EEPROM dedicada; a memória flash pode ser usada para armazenamento não volátil.
+### Alimentação
+- Sua faixa de tensão de funcionamento vai de 3,0 V a 3,6 V, com tensão típica de 3,3 V.
+### Periféricos
+- Supporte a Zigbee 3.0;
+- Possui Bluetoth integrado;
+- I2C, I2S, SPI, UART, ADC, LED PWM, ETM, GDMA, PCNT, PARLIO, RMT, TWAI®, MCPWM, USB Serial/JTAG, sensor de temperatura, Timer de uso geral, watchdog timer;
+- Possibilita interrupção externa através de qualquer um dos 19 GPIOs, configuráveis para borda ou nível.

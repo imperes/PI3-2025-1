@@ -128,39 +128,46 @@ programados, veja a seguir nas tabelas.
 - I2C, I2S, SPI, UART, ADC, LED PWM, ETM, GDMA, PCNT, PARLIO, RMT, TWAI®, MCPWM, USB Serial/JTAG, sensor de temperatura, Timer de uso geral, watchdog timer;
 - Possibilita interrupção externa através de qualquer um dos 19 GPIOs, configuráveis para borda ou nível.
 
-## 3.1 Orçamento do primeiro protótipo (2017)
+## 3.1 Orçamentos
+### 3.1.1 Orçamento do primeiro protótipo (2017)
 O orçamento abaixo foi feito em 2017 e a compra dos materiais foram em lojas físicas, o que deixa mais caro os componentes, então esse orçamento é apenas uma base pois comprando online em fornecedores e em escala os valores são ainda menores
-### Orçamento do protótipo do transmissor 2017 (usuário/deficiente visual)
+#### Orçamento do protótipo do transmissor 2017 (usuário/deficiente visual)
 
 <div style="text-align: center; padding: 10px;">
   <img src="img/orcamento_tx_antigo.png" width="50%" alt="Orçamento do protótipo do transmissor em 2017">
 </div>
 
-### Orçamento do protótipo do receptor 2017 (veículo/ônibus)
+#### Orçamento do protótipo do receptor 2017 (veículo/ônibus)
 
 <div style="text-align: center; padding: 10px;">
   <img src="img/orcamento_rx_antigo.png" width="50%" alt="Orçamento do protótipo do receptor em 2017">
 </div>
 
-### Orçamento total 2017
+#### Orçamento total 2017
 
 <div style="text-align: center; padding: 10px;">
   <img src="img/orcamento_total_antigo.png" width="30%" alt="Orçamento do protótipo total em 2017">
 </div>
 
-## 3.2 Orçamento do novo protótipo (2025)
+### 3.1.2 Orçamento do novo protótipo (2025)
 O orçamento desenvolvido foi com base no antigo, levando em conta que iremos focar apenas no transmissor para fazer o upgrade e, por isso, não mexeremos no receptor. Como não é certo a quantidade de componentes como resistores, capacitores, cabos, ... o custo pode variar tanto pra mais, quanto pra menos. O preço dos componentes internacionais já foram adicionados as taxas e impostos.
-### Orçamento do protótipo do transmissor 2025 (usuário/deficiente visual)
+#### Orçamento do protótipo do transmissor 2025 (usuário/deficiente visual)
 
 <div style="text-align: center; padding: 10px;">
   <img src="img/orcamento_tx_novo_v2.png" width="50%" alt="Orçamento do protótipo do transmissor em 2025">
 </div>
 
-### Orçamento total 2017/2025
+#### Orçamento total 2017/2025
 
 <div style="text-align: center; padding: 10px;">
   <img src="img/orcamento_total_novo.png" width="30%" alt="Orçamento do protótipo total em 2025">
 </div>
+
+## 3.2 Metodologia
+Utilizando o método de pesquisa experimental foi desenvolvido um protótipo eletrônico para alcançar o objetivo instituído. A construção do mesmo se realizou no campus da Escola Técnica Estadual Henrique Lage - RJ. Iniciou-se a pesquisa para o desenvolvimento do protótipo em 19 de Outubro de 2016 com a busca de informações em torno das dificuldades dos deficientes visuais, ou seja, falta de acessibilidade no serviço de transporte público, dependência das pessoas ao seu redor para se locomover, a falta de inclusão na sociedade, entre outros. Com isso, finalizou-se o protótipo eletrônico, sendo concluído no dia 19 de Outubro de 2017. Em 2025, para a matéria curricular do Projeto Integrador 3 de Engenharia Eletrônica no IFSC - Câmpus Florianópolis, propus a ideia de fazer um upgrade no projeto. 
+Este upgrade tem o objetivo de impulsionar ainda mais o uso do dispositivo no contexto atual. O Upgrade será acoplar um dispositivo pequeno atrás do smartphone do usuário conectado pelo USB (allimentação) e por Bluetooth (comandos) para integrar um aplicativo. Assim, o usuário poderá usar o comando de voz para falar a linha de ônibus desejada e também ouvir atualizações sobre a distância, ou até mesmo se o veículo chegou.
+
+### Diagrama em Blocos
 
 ---
 

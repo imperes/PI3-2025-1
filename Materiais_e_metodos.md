@@ -96,3 +96,6 @@ programados, veja a seguir nas tabelas.
 - O Módulo Wireless NRF24L01 pode atuar como emissor ou receptor, apenas realizando uma configuração por software
 
 ## Teclado Matricial 4x3
+<div style="text-align: center; padding: 10px;">
+  <img src="img/tecladomatricial4x3.png" width="50%" alt="Teclado Matricial 4x3">
+</div>

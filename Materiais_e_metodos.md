@@ -1,6 +1,10 @@
 # 3. MATERIAIS E MÉTODOS
 
 ## Microcontrolador PIC 16F877A
+<div style="text-align: center; padding: 10px;">
+  <img src="img/pic16f877a.png" width="50%" alt="PIC 16F877A">
+</div>
+
 ### Características
 - Sua frequência de operação chega a 20MHz, sendo utilizado 4MHz;
 - Sua velocidade de processamento é de 200ns por ciclo de instrução;
@@ -20,8 +24,14 @@
 - Possibilita interrupção externa através de pinos do microcontrolador.
 
 ## Display LCD 16x2
+<div style="text-align: center; padding: 10px;">
+  <img src="img/display16x2.png" width="50%" alt="PIC 16F877A">
+</div>
 
 ## Buzzer
+<div style="text-align: center; padding: 10px;">
+  <img src="img/buzzer.png" width="50%" alt="PIC 16F877A">
+</div>
 
 ## Módulo Wireless NRF24L01
 ### Características

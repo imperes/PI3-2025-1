@@ -130,19 +130,19 @@ programados, veja a seguir nas tabelas.
 
 ## 3.1 Orçamento do primeiro protótipo (2017)
 O orçamento abaixo foi feito em 2017 e a compra dos materiais foram em lojas físicas, o que deixa mais caro os componentes, então esse orçamento é apenas uma base pois comprando online em fornecedores e em escala os valores são ainda menores
-### Orçamento do protótipo do transmissor (usuário/deficiente visual)
+### Orçamento do protótipo do transmissor 2017 (usuário/deficiente visual)
 
 <div style="text-align: center; padding: 10px;">
   <img src="img/orcamento_tx_antigo.png" width="50%" alt="Orçamento do protótipo do transmissor em 2017">
 </div>
 
-### Orçamento do protótipo do receptor (veículo/ônibus)
+### Orçamento do protótipo do receptor 2017 (veículo/ônibus)
 
 <div style="text-align: center; padding: 10px;">
   <img src="img/orcamento_rx_antigo.png" width="50%" alt="Orçamento do protótipo do receptor em 2017">
 </div>
 
-### Orçamento total 
+### Orçamento total 2017
 
 <div style="text-align: center; padding: 10px;">
   <img src="img/orcamento_total_antigo.png" width="30%" alt="Orçamento do protótipo total em 2017">
@@ -150,13 +150,13 @@ O orçamento abaixo foi feito em 2017 e a compra dos materiais foram em lojas f�
 
 ## 3.2 Orçamento do novo protótipo (2025)
 O orçamento desenvolvido foi com base no antigo, levando em conta que iremos focar apenas no transmissor para fazer o upgrade e, por isso, não mexeremos no receptor. Como não é certo a quantidade de componentes como resistores, capacitores, cabos, ... o custo pode variar tanto pra mais, quanto pra menos. O preço dos componentes internacionais já foram adicionados as taxas e impostos.
-### Orçamento do protótipo do transmissor (usuário/deficiente visual)
+### Orçamento do protótipo do transmissor 2025 (usuário/deficiente visual)
 
 <div style="text-align: center; padding: 10px;">
   <img src="img/orcamento_tx_novo_v2.png" width="50%" alt="Orçamento do protótipo do transmissor em 2025">
 </div>
 
-### Orçamento total 
+### Orçamento total 2017/2025
 
 <div style="text-align: center; padding: 10px;">
   <img src="img/orcamento_total_novo.png" width="30%" alt="Orçamento do protótipo total em 2025">

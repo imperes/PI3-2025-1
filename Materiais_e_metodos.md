@@ -153,7 +153,7 @@ O orçamento desenvolvido foi com base no antigo, levando em conta que iremos fo
 ### Orçamento do protótipo do transmissor (usuário/deficiente visual)
 
 <div style="text-align: center; padding: 10px;">
-  <img src="img/orcamento_tx_novo.png" width="50%" alt="Orçamento do protótipo do transmissor em 2025">
+  <img src="img/orcamento_tx_novo_v2.png" width="50%" alt="Orçamento do protótipo do transmissor em 2025">
 </div>
 
 ### Orçamento total 

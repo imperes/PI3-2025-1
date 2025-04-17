@@ -34,6 +34,10 @@
 </div>
 
 ## Módulo Wireless NRF24L01
+<div style="text-align: center; padding: 10px;">
+  <img src="img/nrf24l01.png" width="30%" alt="NRF24L01">
+</div>
+
 ### Características
 - Acompanha uma antena embutida que opera na frequência de operação de 2,4GHz;
 - Sua velocidade de operação vai até 2Mbps;

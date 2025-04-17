@@ -25,12 +25,12 @@
 
 ## Display LCD 16x2
 <div style="text-align: center; padding: 10px;">
-  <img src="img/display16x2.png" width="50%" alt="PIC 16F877A">
+  <img src="img/display16x2.png" width="50%" alt="Display LCD 16x2">
 </div>
 
 ## Buzzer
 <div style="text-align: center; padding: 10px;">
-  <img src="img/buzzer.png" width="50%" alt="PIC 16F877A">
+  <img src="img/buzzer.png" width="30%" alt="Buzzer">
 </div>
 
 ## Módulo Wireless NRF24L01

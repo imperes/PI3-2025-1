@@ -171,6 +171,11 @@ Este upgrade tem o objetivo de impulsionar ainda mais o uso do dispositivo no co
 
 ---
 
+## ESCREVER O TEXTO
+<div style="text-align: center; padding: 10px;">
+  <img src="img/diagrama_funcionalidades.png" width="50%" alt="Orçamento do protótipo total em 2025">
+</div>
+
 <p align="justyfied">
   <a href="./README.md"><strong>RESUMO</strong></a><br>
   <a href="./Introducao.md"><strong>1. INTRODUÇÃO</strong></a><br>

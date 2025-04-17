@@ -2,7 +2,7 @@
 
 ## Microcontrolador PIC 16F877A
 <div style="text-align: center; padding: 10px;">
-  <img src="img/pic16f877a.png" width="50%" alt="PIC 16F877A">
+  <img src="img/pic16f877a.png" width="30%" alt="PIC 16F877A">
 </div>
 
 ### Características
@@ -25,7 +25,7 @@
 
 ## Display LCD 16x2
 <div style="text-align: center; padding: 10px;">
-  <img src="img/display16x2.png" width="50%" alt="Display LCD 16x2">
+  <img src="img/display16x2.png" width="40%" alt="Display LCD 16x2">
 </div>
 
 ## Buzzer
@@ -97,5 +97,5 @@ programados, veja a seguir nas tabelas.
 
 ## Teclado Matricial 4x3
 <div style="text-align: center; padding: 10px;">
-  <img src="img/tecladomatricial4x3.png" width="50%" alt="Teclado Matricial 4x3">
+  <img src="img/tecladomatricial4x3.png" width="30%" alt="Teclado Matricial 4x3">
 </div>

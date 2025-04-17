@@ -127,3 +127,13 @@ programados, veja a seguir nas tabelas.
 - Possui Bluetoth integrado;
 - I2C, I2S, SPI, UART, ADC, LED PWM, ETM, GDMA, PCNT, PARLIO, RMT, TWAI®, MCPWM, USB Serial/JTAG, sensor de temperatura, Timer de uso geral, watchdog timer;
 - Possibilita interrupção externa através de qualquer um dos 19 GPIOs, configuráveis para borda ou nível.
+
+---
+
+<p align="justyfied">
+  <a href="./README.md"><strong>RESUMO</strong></a><br>
+  <a href="./Introducao.md"><strong>1. INTRODUÇÃO</strong></a><br>
+  <a href="./Referencial_teorico.md"><strong>2. REFERENCIAL TEÓRICO</strong></a><br>
+  <a href="./Conclusao.md"><strong>4. CONCLUSÃO</strong></a><br>
+  <a href="./Referencias_bibliograficas.md"><strong>5. REFERÊNCIAS BIBLIOGRÁFICAS</strong></a>
+</p>

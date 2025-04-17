@@ -128,8 +128,8 @@ programados, veja a seguir nas tabelas.
 - I2C, I2S, SPI, UART, ADC, LED PWM, ETM, GDMA, PCNT, PARLIO, RMT, TWAI®, MCPWM, USB Serial/JTAG, sensor de temperatura, Timer de uso geral, watchdog timer;
 - Possibilita interrupção externa através de qualquer um dos 19 GPIOs, configuráveis para borda ou nível.
 
-## 3.1 Orçamento do primeiro protótipo
-O orçamento levantado foi feito em 2017 e a compra dos materiais foram em lojas físicas, o que deixa mais caro os componentes, então esse orçamento é apenas uma base pois comprando online em fornecedores e em escala os valores são ainda menores
+## 3.1 Orçamento do primeiro protótipo (2017)
+O orçamento abaixo foi feito em 2017 e a compra dos materiais foram em lojas físicas, o que deixa mais caro os componentes, então esse orçamento é apenas uma base pois comprando online em fornecedores e em escala os valores são ainda menores
 ### Orçamento do protótipo do transmissor (usuário/deficiente visual)
 
 <div style="text-align: center; padding: 10px;">
@@ -146,6 +146,20 @@ O orçamento levantado foi feito em 2017 e a compra dos materiais foram em lojas
 
 <div style="text-align: center; padding: 10px;">
   <img src="img/orcamento_total_antigo.png" width="30%" alt="Orçamento do protótipo total em 2017">
+</div>
+
+## 3.2 Orçamento do novo protótipo (2025)
+O orçamento desenvolvido foi com base no antigo, levando em conta que iremos focar apenas no transmissor para fazer o upgrade e, por isso, não mexeremos no receptor. Como não é certo a quantidade de componentes como resistores, capacitores, cabos, ... o custo pode variar tanto pra mais, quanto pra menos. O preço dos componentes internacionais já foram adicionados as taxas e impostos.
+### Orçamento do protótipo do transmissor (usuário/deficiente visual)
+
+<div style="text-align: center; padding: 10px;">
+  <img src="img/orcamento_tx_novo.png" width="50%" alt="Orçamento do protótipo do transmissor em 2025">
+</div>
+
+### Orçamento total 
+
+<div style="text-align: center; padding: 10px;">
+  <img src="img/orcamento_total_novo.png" width="30%" alt="Orçamento do protótipo total em 2025">
 </div>
 
 ---

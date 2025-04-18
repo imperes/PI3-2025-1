@@ -167,15 +167,21 @@ O orçamento desenvolvido foi com base no antigo, levando em conta que iremos fo
 Utilizando o método de pesquisa experimental foi desenvolvido um protótipo eletrônico para alcançar o objetivo instituído. A construção do mesmo se realizou no campus da Escola Técnica Estadual Henrique Lage - RJ. Iniciou-se a pesquisa para o desenvolvimento do protótipo em 19 de Outubro de 2016 com a busca de informações em torno das dificuldades dos deficientes visuais, ou seja, falta de acessibilidade no serviço de transporte público, dependência das pessoas ao seu redor para se locomover, a falta de inclusão na sociedade, entre outros. Com isso, finalizou-se o protótipo eletrônico, sendo concluído no dia 19 de Outubro de 2017. Em 2025, para a matéria curricular do Projeto Integrador 3 de Engenharia Eletrônica no IFSC - Câmpus Florianópolis, propus a ideia de fazer um upgrade no projeto. 
 Este upgrade tem o objetivo de impulsionar ainda mais o uso do dispositivo no contexto atual. O Upgrade será acoplar um dispositivo pequeno atrás do smartphone do usuário conectado pelo USB (allimentação) e por Bluetooth (comandos) para integrar um aplicativo. Assim, o usuário poderá usar o comando de voz para falar a linha de ônibus desejada e também ouvir atualizações sobre a distância, ou até mesmo se o veículo chegou.
 
-### Diagrama em Blocos
+## 3.3 Diagrama em Blocos
 
----
+### 3.3.1 Funcionamento das placas
 
-## ESCREVER O TEXTO
+As funcionalidades descritas abaixo referem-se ao que cada placa do sistema será capaz de realizar futuramente.
 <div style="text-align: center; padding: 10px;">
   <img src="img/diagrama_funcionalidades.png" width="50%" alt="Orçamento do protótipo total em 2025">
 </div>
 
+### 3.3.1 Funcionamento do firmware
+
+As funcionalidades listadas abaixo correspondem à previsão de funcionamento do firmware. Elas serão desenvolvidas com foco nas necessidades principais do projeto, podendo ser expandidas ou ajustadas conforme novas demandas surgirem.
+<div style="text-align: center; padding: 10px;">
+  <img src="img/funcionamento_firmware.png" width="50%" alt="Orçamento do protótipo total em 2025">
+</div>
 <p align="justyfied">
   <a href="./README.md"><strong>RESUMO</strong></a><br>
   <a href="./Introducao.md"><strong>1. INTRODUÇÃO</strong></a><br>

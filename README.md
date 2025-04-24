@@ -22,8 +22,8 @@ Pensando nisso, o projeto desenvolvido (2017) busca facilitar o uso do transport
 ###### Vídeo desenvolvido pelo Gabriel Peres no ano de 2017 para participação na FEBRACE 2018
 
 <div style="text-align: center;">
-  <a href="https://www.youtube.com/watch?v=bX4BPr8-4ks" target="_blank">
-    <img src="./img/thumbnail-video.png" alt="Assista ao vídeo no YouTube" style="width: 40%; min-width: 200px;">
+  <a href="https://www.youtube.com/watch?v=bX4BPr8-4ks" target="_blank" rel="noopener noreferrer">
+    <img src="./img/thumbnail-video.png" alt="Assista ao vídeo no YouTube" style="width: 35%; min-width: 300px;">
   </a>
 </div>
 

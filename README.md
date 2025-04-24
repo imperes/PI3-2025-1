@@ -18,6 +18,16 @@ As dificuldades enfrentadas por deficientes visuais, como mobilidade reduzida, c
 
 Pensando nisso, o projeto desenvolvido (2017) busca facilitar o uso do transporte público por deficientes visuais, promovendo maior acessibilidade, independência e inclusão. O aparelho se baseia em dois transceptores onde um deles se localiza instalado dentro do transporte público e o outro com o deficiente visual. Assim que o usuário digitar o numero do ônibus desejado no teclado em seu transceptor, este emitirá um sinal constante na distância entre os pontos de ônibus. O transceptor instalado no ônibus receberá o sinal e avisará ao motorista que este deve parar no próximo ponto, pois haverá um deficiente visual esperando aquele transporte. Assim que chegar ao ponto de parada solicitado, o motorista do ônibus apertará um botão transmitindo ao usuário que o avisará da presença do transporte no ponto.
 
+### 🎬 Demonstração em vídeo do Dispositivo (2017)
+###### Vídeo desenvolvido pelo Gabriel Peres no ano de 2017 para participação na FEBRACE 2018
+
+<div style="text-align: center;">
+  <a href="https://www.youtube.com/watch?v=bX4BPr8-4ks" target="_blank">
+    <img src="./img/thumbnail-video.png" alt="Assista ao vídeo no YouTube" style="width: 40%; min-width: 200px;">
+  </a>
+</div>
+
+
 A ideia proposta para a atividade curricular do Projeto Integrador 3, na faculdade de Engenharia Eletrônica do IFSC - Câmpus Florianópolis, consiste no upgrade deste sistema:
 
 1. **Transceptor do usuário**: Carregado pelo deficiente visual, será acoplado ao smartphone por meio do Bluetooth (Integração de comunicação) e USB (Parte da alimentação do circuito). Será desenvolvido um aplicativo para integração de uma interface simples com comando de voz e teclas, onde o usuário digita ou fale o número do ônibus desejado. Ao fazer isso, o dispositivo emite um sinal constante na área entre os pontos de ônibus.

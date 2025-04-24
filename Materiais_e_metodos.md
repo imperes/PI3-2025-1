@@ -173,15 +173,18 @@ Este upgrade tem o objetivo de impulsionar ainda mais o uso do dispositivo no co
 
 As funcionalidades descritas abaixo referem-se ao que cada placa do sistema será capaz de realizar futuramente.
 <div style="text-align: center; padding: 10px;">
-  <img src="img/diagrama_funcionalidades.png" width="50%" alt="Orçamento do protótipo total em 2025">
+  <img src="img/diagrama_funcionalidades.png" width="50%" alt="Diagrama de blocos do funcionamento do circuito">
 </div>
 
 ### 3.3.1 Funcionamento do firmware
 
 As funcionalidades listadas abaixo correspondem à previsão de funcionamento do firmware. Elas serão desenvolvidas com foco nas necessidades principais do projeto, podendo ser expandidas ou ajustadas conforme novas demandas surgirem.
 <div style="text-align: center; padding: 10px;">
-  <img src="img/funcionamento_firmware.png" width="50%" alt="Orçamento do protótipo total em 2025">
+  <img src="img/funcionamento_firmware.png" width="50%" alt="Funcionamento do Firmware">
 </div>
+
+---
+
 <p align="justyfied">
   <a href="./README.md"><strong>RESUMO</strong></a><br>
   <a href="./Introducao.md"><strong>1. INTRODUÇÃO</strong></a><br>

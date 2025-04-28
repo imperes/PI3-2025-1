@@ -171,6 +171,15 @@ Após a confecção de uma placa de circuito impresso que associa um microcontro
 Em 2025, para a matéria curricular do Projeto Integrador 3 de Engenharia Eletrônica no IFSC - Câmpus Florianópolis, propus a ideia de fazer um upgrade no projeto. 
 Este upgrade tem o objetivo de impulsionar ainda mais o uso do dispositivo no contexto atual. O Upgrade será acoplar um dispositivo pequeno atrás do smartphone do usuário conectado pelo USB (allimentação) e por Bluetooth (comandos) para integrar um aplicativo. Assim, o usuário poderá usar o comando de voz para falar a linha de ônibus desejada e também ouvir atualizações sobre a distância, ou até mesmo se o veículo chegou.
 
+### Viabilidade do Projeto
+
+A viabilidade do projeto é altamente favorável, considerando a evolução tecnológica atual, o fácil acesso a microcontroladores de baixo custo, módulos Bluetooth eficientes e a popularização de smartphones com suporte a conexões USB OTG. A integração do sistema com um aplicativo torna sua utilização ainda mais intuitiva e personalizada, permitindo atualizações frequentes e facilidade de adaptação a novas necessidades dos usuários.
+
+Além disso, a construção do hardware é simples, de baixo custo, e pode ser facilmente escalonada para produção em maior volume. A parte de software (aplicativo) também se mostra viável, visto que pode ser desenvolvida utilizando frameworks acessíveis e com integração simplificada entre o dispositivo e o sistema Android, majoritário entre o público-alvo.
+
+Por fim, o projeto atende a uma necessidade social urgente, o que amplia seu potencial para captação de recursos através de políticas públicas de acessibilidade, editais de inovação, ou parcerias com empresas de transporte público.
+
+
 ## 3.3 Diagrama em Blocos
 
 ### 3.3.1 Funcionamento dos Sistemas

@@ -196,6 +196,57 @@ As funcionalidades listadas abaixo correspondem à previsão de funcionamento do
   <img src="img/funcionamento_firmware.png" width="50%" alt="Funcionamento do Firmware">
 </div>
 
+
+## 3.4 Placas de circuito Impresso
+
+### 3.4.1 Hardware do Usuário
+
+O hardware do usuário foi desenvolvido com base na placa legada do projeto anterior. Nesta nova versão, a alimentação do módulo NRF24L01 é fornecida diretamente pelo pino 3V3 da placa ESP32-H2-DevKitM-1, eliminando a necessidade de um circuito externo para conversão da tensão de 5V proveniente da porta USB para 3,3V.
+
+Adicionalmente, foi inserido um capacitor de 100 nF entre o pino 3V3 e o GND para filtragem de ruídos. Esse capacitor pode ser substituído por outro de maior capacitância, caso haja necessidade de maior rejeição de ruídos que possam ser conduzidos entre as placas através da linha de alimentação.
+
+A interface de comunicação entre o módulo NRF24L01 e o ESP32 foi configurada com os seguintes pinos:
+
+
+| Pinos | Função                | Pino no ESP32-H2-DevKitM-1         |
+|-------|-----------------------|------------------------------------|
+| GND   | Terra                 | GND                                |
+| VCC   | Alimentação           | 3V3                                |
+| CE    | Chip Enable RX/TX     | GPIO13                             |
+| CSN   | SPI Chip Select       | FSPICS0                            |
+| SCK   | SPI Clock             | FSPICLK                            |
+| MOSI  | SPI Slave Data Input  | FSPID                              |
+| MISO  | SPI Slave Data Output | FSPIQ                              |
+| IRQ   | Interrupção           | GPIO8                              |
+
+
+
+O esquemático elétrico foi desenvolvido utilizando o software Altium Designer e está representado conforme a imagem abaixo:
+
+<div style="text-align: center; padding: 10px;">
+  <img src="img/schematic.png" width="100%" alt="Esquematico">
+</div>
+
+Com base no esquemático, foi desenvolvida uma placa de circuito impresso (PCI) no Altium Designer. As trilhas e pads foram desenhados com larguras maiores para facilitar a fabricação manual, especialmente no processo de transferência térmica com papel glossy. Isso melhora a transferência da tinta para a placa de cobre e reduz falhas durante a corrosão com percloreto de ferro.
+
+Também foi tomado o cuidado de manter as dimensões da placa reduzidas, garantindo que ela seja compacta o suficiente para ser instalada na parte traseira de um gabinete acoplado ao celular.
+
+<div style="text-align: center; padding: 10px;">
+  <img src="img/PCB.png" width="50%" alt="PCB">
+</div>
+
+Também foram adicionados os modelos 3D dos componentes e da placa no projeto do Altium Designer, permitindo uma visualização mais realista do dispositivo final. Isso facilita a verificação do encaixe mecânico e auxilia no planejamento do posicionamento dentro do gabinete.
+
+<div style="text-align: center; padding: 10px;">
+  <img src="img/PCB_3D_TOP.png" width="50%" alt="PCB">
+</div>
+
+### 3.4.2 Hardware do Motorista
+
+
+
+
+
 ---
 
 <p align="justyfied">

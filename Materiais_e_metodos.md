@@ -243,6 +243,46 @@ Também foram adicionados os modelos 3D dos componentes e da placa no projeto do
 
 ### 3.4.2 Hardware do Motorista
 
+### 3.4.3 Aplicativo do Usuário 
+![tela_inicial](https://github.com/user-attachments/assets/fc4a53b3-6aba-40b6-93c7-c8cf0dc52425)
+
+VisuTech – Mobilidade e Autonomia para Pessoas com Deficiência Visual
+> VisuTech — Tecnologia que guia, conecta e transforma vidas.
+
+O **VisuTech** é um aplicativo inclusivo, pensado especialmente para pessoas com deficiência visual, com o objetivo de facilitar o acesso ao transporte público com mais segurança e independência.
+
+O usuário pode interagir por meio de **comandos de voz** ou **digitação**, de acordo com sua preferência ou necessidade. A funcionalidade por voz permite acesso fácil a informações sobre **rotas de ônibus**, **horários** e **localização dos pontos**, sem a necessidade de tocar na tela ou enxergar as opções. Já o modo de digitação é otimizado com **alto contraste**, **letras ampliadas** e compatibilidade com **leitores de tela**.
+
+
+A **versão V1.0** marca o início de uma transformação digital mais inclusiva. O **VisuTech** é mais do que um aplicativo — é uma ferramenta de **empoderamento** para que todos possam exercer seu **direito de ir e vir com dignidade e independência**.
+
+
+![app](https://github.com/user-attachments/assets/2ad68767-1197-4fdf-9b40-aaee0adc3380)
+
+Interface acessível e intuitiva
+
+Ao abrir o aplicativo, o usuário se depara com uma interface simples e funcional. A tela principal oferece duas formas de entrada para transmitir a linha de ônibus desejada:
+
+- **Entrada por digitação**: Um teclado numérico em destaque permite que o usuário digite o número da linha com facilidade, utilizando botões grandes e bem espaçados, ideais para pessoas com baixa visão.
+- **Entrada por voz**: Um botão com o ícone de microfone possibilita que o usuário diga a linha do ônibus em voz alta, utilizando o sistema de reconhecimento de fala do aplicativo.
+
+Além disso, há botões visuais de **confirmação (verde)** e **cancelamento (vermelho)**, reforçando o controle do usuário sobre suas ações.
+
+## Acessibilidade em primeiro lugar
+
+O VisuTech foi desenvolvido com foco em acessibilidade digital:
+
+- Compatível com leitores de tela
+- Teclado com contraste elevado
+- Fontes grandes e legíveis
+- Navegação simplificada
+
+## Autonomia e inclusão
+
+Este aplicativo representa um avanço significativo no acesso ao transporte urbano, permitindo que pessoas com deficiência visual identifiquem e comuniquem sua linha de ônibus de forma prática, segura e independente.
+
+A **versão V1.0** marca o início de uma transformação digital acessível, promovendo inclusão social e autonomia.
+
 
 
 

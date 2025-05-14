@@ -283,6 +283,42 @@ Este aplicativo representa um avanço significativo no acesso ao transporte urba
 
 A **versão V1.0** marca o início de uma transformação digital acessível, promovendo inclusão social e autonomia.
 
+![image](https://github.com/user-attachments/assets/2ab5d090-6b4c-4196-bac7-ea4f96eebe20)
+
+# Como utilizar o aplicativo VisuTech
+
+### 1. **Conectar ao dispositivo**
+Logo no topo da tela, há dois botões:
+
+- `Conectar`: Estabelece a comunicação com o dispositivo (por exemplo, um módulo que interage com ônibus ou pontos de parada).
+- `Desconectar`: Encerra a conexão com o sistema.
+
+Quando conectado com sucesso, a mensagem **"Conectado"** aparece em verde, confirmando que o app está pronto para uso.
+
+### 2. **Transmissão da linha do ônibus**
+
+Você pode inserir o número da linha de ônibus de duas maneiras:
+
+#### 🟦 **Digitando**
+- Use o teclado numérico na tela para digitar o número da linha desejada.
+- O botão **"X"** apaga o número digitado.
+- O botão **"Enter"** envia a informação para o sistema.
+
+#### 🎤 **Por comando de voz**
+- Abaixo do campo de digitação, há o botão de **comando por voz**, com um ícone de microfone.
+- Ao tocar no microfone, você pode **dizer o número da linha**, e o aplicativo reconhecerá automaticamente.
+
+### 3. **Indicação de status**
+- O texto **"Led ligado"** indica que o LED do dispositivo (possivelmente usado como sinal visual para o motorista ou para o usuário) está ativo.
+- Isso pode ser um recurso importante para alertar o motorista sobre a presença de um passageiro com deficiência visual.
+
+## Recursos de acessibilidade
+
+- **Botões grandes e com bom contraste**
+- **Interface limpa e objetiva**
+- **Reconhecimento de voz para maior autonomia**
+- **Compatível com leitores de tela**
+
 
 
 

@@ -242,6 +242,18 @@ Também foram adicionados os modelos 3D dos componentes e da placa no projeto do
 </div>
 
 ### 3.4.2 Hardware do Motorista
+Transmissor (controle do deficiente)
+![WhatsApp Image 2025-05-14 at 21 33 51](https://github.com/user-attachments/assets/77568dc3-a810-49e7-ac5b-001ea3f29272)
+
+Parte Interna (circuito)
+![WhatsApp Image 2025-05-14 at 21 33 51 (1)](https://github.com/user-attachments/assets/9bd15e7b-0cfd-4f1d-8951-9604a0b82a93)
+
+Receptor (Motorista)
+![WhatsApp Image 2025-05-14 at 21 34 24 (1)](https://github.com/user-attachments/assets/4065323d-ec0a-4f93-bb70-453d561b0e55)
+
+Parte Interna (circuito - motorista)
+![WhatsApp Image 2025-05-14 at 21 34 24](https://github.com/user-attachments/assets/1371a769-7cbd-4d9c-9e0e-80973c8c9707)
+
 
 ### 3.4.3 Aplicativo do Usuário 
 ![tela_inicial](https://github.com/user-attachments/assets/fc4a53b3-6aba-40b6-93c7-c8cf0dc52425)

@@ -321,7 +321,7 @@ Você pode inserir o número da linha de ônibus de duas maneiras:
 
 ![image](https://github.com/user-attachments/assets/7d37304d-29b1-4373-8cb9-fc68decef629)
 
-Os dois componentes estão inseridos em um **invólucro retangular** projetado para ser fixado na parte traseira do celular do motorista. Esse posicionamento permite que o sistema funcione de forma **discreta** e **integrada** ao uso do dispositivo móvel.
+Os dois componentes estão inseridos em um **invólucro retangular** projetado para ser fixado na parte traseira do celular. Esse posicionamento permite que o sistema funcione de forma **discreta** e **integrada** ao uso do dispositivo móvel.
 
 O sistema pode ser utilizado para diversas finalidades, como:
 

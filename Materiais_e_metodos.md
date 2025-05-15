@@ -241,18 +241,30 @@ Também foram adicionados os modelos 3D dos componentes e da placa no projeto do
   <img src="img/PCB_3D_TOP.png" width="50%" alt="PCB">
 </div>
 
-### 3.4.2 Hardware do Motorista
-Transmissor (controle do deficiente)
-![WhatsApp Image 2025-05-14 at 21 33 51](https://github.com/user-attachments/assets/77568dc3-a810-49e7-ac5b-001ea3f29272)
+### 3.4.2 Hardware Desenvolvido
+**Transmissor (controle do deficiente)**
 
-Parte Interna (circuito)
-![WhatsApp Image 2025-05-14 at 21 33 51 (1)](https://github.com/user-attachments/assets/9bd15e7b-0cfd-4f1d-8951-9604a0b82a93)
+<div style="text-align: center; padding: 10px;">
+  <img src="./img/Transmissor (controle do deficiente).jpeg" width="40%" alt="Parte Interna (circuito - motorista)">
+</div>
 
-Receptor (Motorista)
-![WhatsApp Image 2025-05-14 at 21 34 24 (1)](https://github.com/user-attachments/assets/4065323d-ec0a-4f93-bb70-453d561b0e55)
+**Parte Interna (circuito)**
 
-Parte Interna (circuito - motorista)
-![WhatsApp Image 2025-05-14 at 21 34 24](https://github.com/user-attachments/assets/1371a769-7cbd-4d9c-9e0e-80973c8c9707)
+<div style="text-align: center; padding: 10px;">
+  <img src="./img/Parte Interna (circuito).jpeg" width="40%" alt="Parte Interna (circuito - motorista)">
+</div>
+
+**Receptor (Motorista)**
+
+<div style="text-align: center; padding: 10px;">
+  <img src="./img/Receptor (Motorista).jpeg" width="40%" alt="Parte Interna (circuito - motorista)">
+</div>
+
+**Parte Interna (circuito - motorista)**
+
+<div style="text-align: center; padding: 10px;">
+  <img src="./img/Parte Interna (circuito - motorista).jpeg" width="40%" alt="Parte Interna (circuito - motorista)">
+</div>
 
 
 ### 3.4.3 Aplicativo do Usuário 
@@ -331,17 +343,38 @@ Você pode inserir o número da linha de ônibus de duas maneiras:
 - **Reconhecimento de voz para maior autonomia**
 - **Compatível com leitores de tela**
 
+# Gabinete/Carcaça do dispositivo
+
 ![image](https://github.com/user-attachments/assets/7d37304d-29b1-4373-8cb9-fc68decef629)
 
 Os dois componentes estão inseridos em um **invólucro retangular** projetado para ser fixado na parte traseira do celular. Esse posicionamento permite que o sistema funcione de forma **discreta** e **integrada** ao uso do dispositivo móvel.
 
-O sistema pode ser utilizado para diversas finalidades, como:
+**Visão frontal**
 
-- **Comunicação com outro dispositivo por proximidade**
-- **Detecção de presença**
+<div style="text-align: center; padding: 10px;">
+  <img src="./img/gabinete-superior.png" width="40%" alt="Visão Frontal">
+</div>
 
 
+**Visão traseira**
 
+<div style="text-align: center; padding: 10px;">
+  <img src="./img/gabinete-traseiro.png" width="40%" alt="Visão Traseira">
+</div>
+
+
+**Visão inferior**
+
+<div style="text-align: center; padding: 10px;">
+  <img src="./img/gabinete-baixo.png" width="40%" alt="Visão Inferior">
+</div>
+
+
+**Visão lateral**
+
+<div style="text-align: center; padding: 10px;">
+  <img src="./img/gabinete-lateral.png" width="40%" alt="Visão Lateral">
+</div>
 
 
 ---

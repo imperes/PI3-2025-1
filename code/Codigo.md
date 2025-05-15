@@ -50,5 +50,12 @@ void loop() {
 Para desenvolver o aplicativo android, foi utilizado o APP Inventor.
 
 <div style="text-align: center; padding: 10px;">
-  <img src="img/blocos-app-inventor.png" width="30%" alt="Blocos APP Inventor">
+  <img src="../img/blocos-app-inventor.png/" width="50%" alt="Blocos APP Inventor">
 </div>
+
+### 1.2 Teste do código + aplicativo android
+
+Compilando o código para testar a comunicação bluetooth da ESP32 e fazendo o download do aplicativo no celular, seguimos para testar.
+Adicionei no teste o comando por voz com uma API do Google por meio do APP Inventor, uma opção que irá ajudar muito no desenvolvimento do aplicativo final.
+Os testes foram bem sucessididos e iremos apresentar aos professores na aula.
+A próxima etapa será ligar o NRF24L01 por meio da interface SPI e passar o pacote de dados para ser transmitido por RF

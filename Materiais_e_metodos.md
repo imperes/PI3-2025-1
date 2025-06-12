@@ -241,6 +241,10 @@ Também foram adicionados os modelos 3D dos componentes e da placa no projeto do
   <img src="img/PCB_3D_TOP.png" width="50%" alt="PCB">
 </div>
 
+<div style="text-align: center; padding: 10px;">
+  <img src="img/esquematico_pcb_receptor.png" width="50%" alt="PCB">
+</div>
+
 ### 3.4.2 Hardware Desenvolvido
 **Transmissor (controle do deficiente)**
 

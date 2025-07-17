@@ -64,6 +64,49 @@ O desenvolvimento de um dispositivo eletrônico baseado em tecnologia assistiva,
 
 Criar um dispositivo eletrônico destinado a deficientes visuais, que possibilite a sinalização ao motorista para parada no ponto de ônibus onde o usuário se encontra, sem a necessidade de auxílio de terceiros. Essa iniciativa visa superar as dificuldades de locomoção urbana e promover a inclusão social, conforme preconizado pela Lei Brasileira de Inclusão da Pessoa com Deficiência (Lei nº 13.146/2015).
 
+## 1.5 Viabilidade do Projeto
+
+O desenvolvimento do dispositivo interativo baseado em transceptores para auxiliar pessoas com deficiência visual no uso do transporte público apresenta viabilidade comprovada em três dimensões essenciais:
+
+### Viabilidade Técnica
+
+✔ **Tecnologias consolidadas**:  
+- Utilização de protocolos de comunicação sem fio modernos:
+  - Bluetooth Low Energy (BLE) - ideal para baixo consumo energético
+
+✔ **Sistemas já validados**:  
+- Arquitetura de transceptores bidirecionais amplamente testada em:
+  - Sistemas de rastreamento veicular
+  - Soluções de IoT urbana
+  - Dispositivos de monitoramento inteligente
+
+✔ **Integração móvel robusta**:  
+- Conectividade via Bluetooth/USB com smartphones
+- Compatibilidade comprovada com tecnologias assistivas existentes
+- Alcance calibrado em 250m, conforme estudos da EESC-USP sobre distâncias entre pontos de ônibus
+
+### Viabilidade Econômica
+
+**Custos competitivos**:  
+| Componente          | Características                          | Benefício                          |
+|---------------------|-----------------------------------------|------------------------------------|
+| Módulos RF          | Baixo custo unitário                    | Escalabilidade                     |
+| Microcontroladores  | Amplamente disponíveis                  | Facilidade de reposição            |
+| Baterias            | Recarregáveis e duráveis                | Baixa manutenção                   |
+
+### Viabilidade Social e Legal
+
+**Conformidade legal**:  
+- Atende integralmente à Lei Brasileira de Inclusão (Lei nº 13.146/2015)
+- Alinhado com a Convenção da ONU sobre Direitos das Pessoas com Deficiência
+- Compatível com as Diretrizes de Acessibilidade do Ministério das Cidades
+
+**Impacto social**:  
+- Beneficia diretamente 6+ milhões de brasileiros com deficiência visual (IBGE 2023)
+- Promove autonomia no transporte público
+- Reduz dependência de acompanhantes
+- Contribui para cidades mais inclusivas (ODS 11 - ONU)
+
 ---
 
 ## Referências Bibliográficas

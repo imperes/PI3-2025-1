@@ -440,7 +440,11 @@ O **VisuTech** é um aplicativo pioneiro desenvolvido exclusivamente para pessoa
 - Avisa em qual ponto de ônibus o usuário se encontra  
 
  **Alertas Sonoros**  
-- Notificação quando o ônibus chegar  
+- Notificação quando o ônibus chegar
+
+<p align="justyfied">
+  <a href="./code/visutech.md"><strong>Detalhes do código e desenvolvimento do aplicativo VisuTech</strong></a><br>
+</p>
 
 # Gabinete/Carcaça do dispositivo
 

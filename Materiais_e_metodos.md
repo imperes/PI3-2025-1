@@ -446,7 +446,7 @@ O **VisuTech** é um aplicativo pioneiro desenvolvido exclusivamente para pessoa
   <a href="./code/visutech.md"><strong>Detalhes do código e desenvolvimento do aplicativo VisuTech</strong></a><br>
 </p>
 
-# Gabinete/Carcaça do dispositivo
+# Case do dispositivo (úsuário)
 
 ![image](https://github.com/user-attachments/assets/7d37304d-29b1-4373-8cb9-fc68decef629)
 
@@ -479,6 +479,17 @@ Os dois componentes estão inseridos em um **invólucro retangular** projetado p
   <img src="./img/gabinete-lateral.png" width="40%" alt="Visão Lateral">
 </div>
 
+### Case desenvolvido
+
+<div style="text-align: center; padding: 10px;">
+  <img src="./img/usuario-case1.jpg" width="50%" alt="Visão cima">
+</div>
+<div style="text-align: center; padding: 10px;">
+  <img src="./img/usuario-case2.jpg" width="50%" alt="Visão Lateral">
+</div>
+<div style="text-align: center; padding: 10px;">
+  <img src="./img/usuario-case3.jpg" width="50%" alt="Visão baixo">
+</div>
 
 ---
 

@@ -106,27 +106,76 @@ programados, veja a seguir nas tabelas.
 
 
 
-## Microcontrolador ESP32 H2 MINI1
+## Microcontrolador ESP32 DevKit-v1
 <div style="text-align: center; padding: 10px;">
-  <img src="img/esp32.png" width="30%" alt="ESP 32">
+  <img src="img/esp32-devkit-v1.jpg" width="30%" alt="ESP 32">
 </div>
 
-### Características
-- Sua frequência de operação chega a 96MHz;
-- Sua velocidade de processamento é de aproximadamente 10,42 ns por ciclo de instrução (baseado na frequência máxima, contudo depende do tamanho da instrução);
-- Possui 53 pinos, dos quais 19 são GPIOs (pinos de entrada/saída de uso geral), sendo que 5 pinos podem ser usados como entradas analógicas;
-- Contém baixo consumo de energia, como Light-sleep (85 µA) e Deep-sleep (7 µA).
-### Memórias
-- Até 4 MB (ou 2 MB, dependendo do modelo) de memória flash integrada para programa e dados;
-- Até 320 KB de SRAM (memória de dados) e 4 KB de LP Memory (memória de baixa potência);
-- Não possui EEPROM dedicada; a memória flash pode ser usada para armazenamento não volátil.
-### Alimentação
-- Sua faixa de tensão de funcionamento vai de 3,0 V a 3,6 V, com tensão típica de 3,3 V.
-### Periféricos
-- Supporte a Zigbee 3.0;
-- Possui Bluetoth integrado;
-- I2C, I2S, SPI, UART, ADC, LED PWM, ETM, GDMA, PCNT, PARLIO, RMT, TWAI®, MCPWM, USB Serial/JTAG, sensor de temperatura, Timer de uso geral, watchdog timer;
-- Possibilita interrupção externa através de qualquer um dos 19 GPIOs, configuráveis para borda ou nível.
+### Características Técnicas da ESP32 DevKit V1
+
+#### Processamento
+- **Frequência de operação**: Dual-core a 160MHz ou single-core a 240MHz (ajustável)
+- **Velocidade de processamento**: ~4.17ns por ciclo (240MHz)
+- **Arquitetura**: Xtensa LX6 (32-bit)
+
+#### GPIO e Pinagem
+- **Total de pinos**: 38 (na versão DevKit V1)
+- **GPIOs disponíveis**: 25 (com restrições de uso)
+  - Entradas analógicas: 18 canais ADC de 12-bit
+  - Saídas analógicas: 8 canais DAC de 8-bit
+- **Pinos especiais**:
+  - 16 pinos com touch capacitivo
+  - 4 pinos SPI dedicados
+  - 2 pinos I2C
+
+#### Consumo Energético
+- **Modos de operação**:
+  - Ativo: ~160mA (máx.)
+  - Modem-sleep: ~20mA
+  - Light-sleep: ~0.4mA
+  - Deep-sleep: ~10µA
+
+#### Memórias
+- **Flash integrada**: 4MB (ESP-WROOM-32)
+- **SRAM**: 520KB (sendo 320KB para dados e 200KB para instruções)
+- **RTC Fast Memory**: 8KB (para deep-sleep)
+- **EEPROM**: Emulada na flash (até 512KB)
+
+#### Alimentação
+- **Tensão operacional**: 2.2V a 3.6V
+- **Tensão recomendada**: 3.3V
+- **Consumo típico**: 80mA em operação normal
+
+#### Conectividade
+- **Wi-Fi**:
+  - 802.11 b/g/n
+  - 2.4GHz
+  - Até 150Mbps
+- **Bluetooth**:
+  - Bluetooth 4.2 BR/EDR
+  - BLE
+
+#### Periféricos
+- **Interfaces seriais**:
+  - 3× UART
+  - 2× I2C
+  - 2× I2S
+  - 3× SPI (1 dedicado para flash)
+  
+- **Outros periféricos**:
+  - 16× PWM LED
+  - 2× DAC
+  - 10× sensores touch capacitivos
+  - 2× timers de watchdog
+  - 4× timers de uso geral
+  - Interface Ethernet MAC (requer PHY externo)
+
+#### Características Físicas
+- **Dimensões PCB**: ~52mm × 28mm
+- **Interface de programação**: Micro USB (CP2102)
+- **Botões**:
+  - Reset
+  - Boot (para modo flash)
 
 ## 3.1 Orçamentos
 ### 3.1.1 Orçamento do primeiro protótipo (2017)
@@ -163,28 +212,126 @@ O orçamento desenvolvido foi com base no antigo, levando em conta que será dad
   <img src="img/orcamento_total_novo.png" width="30%" alt="Orçamento do protótipo total em 2025">
 </div>
 
-## 3.2 Metodologia
-Utilizando o método de pesquisa experimental foi desenvolvido um protótipo eletrônico para alcançar o objetivo instituído. A construção do mesmo se realizou no campus da Escola Técnica Estadual Henrique Lage - RJ. Iniciou-se a pesquisa para o desenvolvimento do protótipo em 19 de Outubro de 2016 com a busca de informações em torno das dificuldades dos deficientes visuais, ou seja, falta de acessibilidade no serviço de transporte público, dependência das pessoas ao seu redor para se locomover, a falta de inclusão na sociedade, entre outros. Com isso, finalizou-se o protótipo eletrônico, sendo concluído no dia 19 de Outubro de 2017.
+## 3.2 Atualização e Melhorias do Projeto
 
-Após a confecção de uma placa de circuito impresso que associa um microcontrolador PIC16F877A e transceptores NRF24L01, iniciaram-se testes de modo a comprovar ou não o funcionamento do dispositivo. O objetivo era que, o usuário possa interagir com o motorista em tempo real, a fim de sinalizá-lo que no próximo ponto haverá um deficiente visual solicitando o veículo. Os principais testes foram: verificar a distância máxima do sinal de transmissão em um lugar fechado com obstáculos e em um local aberto sem obstáculos. Outro teste realizado foi analisar a distância máxima em movimento, simulando uma situação real de uma parada de ônibus, onde foi instalado o aparelho em um veículo e variou-se a sua velocidade para determinar o limite de seu ponto de emissão e recepção. Também foi efetuado testes com deficientes visuais para analisar o grau de dificuldade em manusear o dispositivo, a fim de avaliar suas necessidades para sempre atualizar e modificar o aparelho em prol de adequar e englobar as dificuldades dos deficientes visuais a um completo sistema de comunicação pelo controle de acesso do usuário diretamente ao motorista. Verificou-se que o protótipo atingiu excelência em todos os testes, mostrando que a Tecnologia Assistiva desenvolvida potencializou as habilidades funcionais das pessoas com deficiência, reforçando a ideia da utilização de sistemas cada vez mais sofisticados para este fim, com custos extremamente baixos.
+### 3.2.1 Arquitetura do Sistema Atualizado
 
-Em 2025, para a matéria curricular do Projeto Integrador 3 de Engenharia Eletrônica no IFSC - Câmpus Florianópolis, o grupo propôs a ideia de fazer um upgrade no projeto. 
-Este upgrade tem o objetivo de impulsionar ainda mais o uso do dispositivo no contexto atual. O Upgrade tem o objetivo em acoplar um dispositivo pequeno atrás do smartphone do usuário conectado pelo USB (allimentação) e por Bluetooth (comandos) para integrar um aplicativo. Assim, o usuário poderá usar o comando de voz para falar a linha de ônibus desejada e também ouvir atualizações sobre a distância, ou até mesmo se o veículo chegou.
+O projeto original recebeu significativas melhorias tecnológicas:
 
-### Viabilidade do Projeto
+**Nova Configuração:**
+- **Microcontrolador:** ESP32 DevKit-V1 (substituindo o PIC16F877A)
+- **Módulo RF:** NRF24L01+ com alcance de ~60m
+- **Interface:** Aplicativo VisuTech + dispositivo
 
-A viabilidade do projeto é altamente favorável, considerando a evolução tecnológica atual, o fácil acesso a microcontroladores de baixo custo, módulos Bluetooth eficientes e a popularização de smartphones com suporte a conexões USB OTG. A integração do sistema com um aplicativo torna sua utilização ainda mais intuitiva e personalizada, permitindo atualizações frequentes e facilidade de adaptação a novas necessidades dos usuários.
+### 3.2.2 Dispositivo do Usuário
 
-Além disso, a construção do hardware é simples, de baixo custo, e pode ser facilmente escalonada para produção em maior volume. A parte de software (aplicativo) também se mostra viável, visto que pode ser desenvolvida utilizando frameworks acessíveis e com integração simplificada entre o dispositivo e o sistema Android, majoritário entre o público-alvo.
+#### Hardware
+- **Conexões:**
+  - MicroUSB para alimentação
+  - Bluetooth 4.2 para comunicação
+- **Componentes:**
+  - ESP32 DevKit-V1
+  - Módulo NRF24L01+
 
-Por fim, o projeto atende a uma necessidade social urgente, o que amplia seu potencial para captação de recursos através de políticas públicas de acessibilidade, editais de inovação, ou parcerias com empresas de transporte público.
+#### Aplicativo VisuTech
+- **Funcionalidades:**
+  - Ativação por gesto (chacoalhar)
+  - Comandos por voz (API Google)
+  - Geolocalização (API Google)
+  - Feedback por voz (Google TTS)
 
+### 3.2.3 Dispositivo Veicular
+
+**Painel do Motorista:**
+- Display
+- Teclado matricial para seleção de linha
+- Botão físico de confirmação
+- Alerta sonoro (Buzzer) e visual (Display)
+
+### 3.2.4 Fluxo de Operação
+
+1. Usuário chacoalha o smartphone
+2. App solicita comando de voz
+3. Usuário fala número da linha
+4. Dispositivo transmite via RF (60m)
+5. Ônibus recebe sinal e alerta motorista
+6. Motorista confirma parada
+7. Usuário recebe confirmação por voz
+
+<img src="img/fluxo_comunicacao_projeto.png"
+     width="120%"
+     style="padding: 10px">
+
+### 3.2.5 Vantagens da Nova Versão
+
+✔ **Autonomia:**  
+- Funciona sem internet (apenas RF e BLueTooth)    
+
+✔ **Acessibilidade:**  
+- Controle por voz e gestos  
+- Feedback por áudio, visual e vibração  
 
 ## 3.3 Diagrama em Blocos
 
-### 3.3.1 Funcionamento dos Sistemas
+### 3.3.1 Funcionamentos dos Sistemas
 
 As funcionalidades descritas abaixo referem-se ao que cada placa do sistema será capaz de realizar futuramente.
+
+#### Sistema do ônibus (painel do motorista)
+
+1. **Teclado Físico**:
+   - Interface de entrada para o motorista
+   - Permite digitar o número da linha em operação
+   - Teclas dedicadas para funções especiais (confirmação, cancelamento)
+
+2. **ESP32**:
+   - Processa a entrada do teclado
+   - Controla o display de informações
+   - Gerencia a comunicação com o módulo RF
+   - Algoritmo de verificação de dados
+
+3. **Display**:
+   - Mostra em tempo real:
+     - Linha selecionada
+     - Status da comunicação
+     - Alertas de passageiros
+   - Interface visual simples para operação em movimento
+
+4. **Transceptor NRF24L01**:
+   - Comunicação bidirecional em 2.4GHz
+   - Alcance operacional: ~60m em ambiente urbano
+  
+5. **Sistema de Áudio:**
+   - Buzzer para sinalização
+
+#### Sistema do usuário (deficiente visual)
+
+1. Microcontrolador ESP32
+- **Função**: Processamento central do dispositivo
+- **Conexões**:
+  - Bluetooth com smartphone
+  - Interface com módulo RF
+- **Recursos**:
+  - Processamento de comandos em tempo real
+  - Bluetooth (BLE 4.2)
+
+2. Transceptor NRF24L01
+- **Operação**:
+  - Pareamento automático com unidade veicular
+  - Transmissão e recepção de dados
+
+3. Aplicativo VisuTech
+  **Interfaces**:
+   - Reconhecimento de voz integrado (API Google)
+   - Ativação por gestos (acelerômetro)
+   
+  **Funcionalidades**:
+   - GPS para localização precisa
+   - Sintetizador de voz (TTS) multilíngue
+
+4. Sistema de Áudio
+  - Áudio do próprio aparelho celular
+
 <div style="text-align: center; padding: 10px;">
   <img src="img/diagrama_funcionalidades.png" width="50%" alt="Diagrama de blocos do funcionamento do circuito">
 </div>

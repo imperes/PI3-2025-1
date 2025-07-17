@@ -1,0 +1,9 @@
+idf_component_register(
+    SRCS
+        "main.c"
+        "mirf.c"
+        "ssd1306.c"
+        "matrix_keyboard_4x4.c"
+    INCLUDE_DIRS
+        "."
+)

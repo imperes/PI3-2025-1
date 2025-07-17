@@ -395,82 +395,52 @@ Foi realizado no software Proteus o esquemático da PCB do Receptor (Motorista),
   <img src="./img/Parte Interna (circuito - motorista).jpeg" width="40%" alt="Parte Interna (circuito - motorista)">
 </div>
 
-
-### 3.4.3 Aplicativo do Usuário 
+### 3.4.3 Aplicativo VisuTech (Usuário) 
 ![tela_inicial](https://github.com/user-attachments/assets/fc4a53b3-6aba-40b6-93c7-c8cf0dc52425)
 
 VisuTech – Mobilidade e Autonomia para Pessoas com Deficiência Visual
 > VisuTech — Tecnologia que guia, conecta e transforma vidas.
 
-O **VisuTech** é um aplicativo inclusivo, pensado especialmente para pessoas com deficiência visual, com o objetivo de facilitar o acesso ao transporte público com mais segurança e independência.
-
-O usuário pode interagir por meio de **comandos de voz** ou **digitação**, de acordo com sua preferência ou necessidade. A funcionalidade por voz permite acesso fácil a informações sobre **rotas de ônibus**, **horários** e **localização dos pontos**, sem a necessidade de tocar na tela ou enxergar as opções. Já o modo de digitação é otimizado com **alto contraste**, **letras ampliadas** e compatibilidade com **leitores de tela**.
-
-
-A **versão V1.0** marca o início de uma transformação digital mais inclusiva. O **VisuTech** é mais do que um aplicativo — é uma ferramenta de **empoderamento** para que todos possam exercer seu **direito de ir e vir com dignidade e independência**.
+O **VisuTech** é um aplicativo pioneiro desenvolvido exclusivamente para pessoas com deficiência visual, transformando seu smartphone em um assistente pessoal para uso do transporte público com total autonomia.
 
 
 ![app](https://github.com/user-attachments/assets/2ad68767-1197-4fdf-9b40-aaee0adc3380)
 
-Interface acessível e intuitiva
-
-Ao abrir o aplicativo, o usuário se depara com uma interface simples e funcional. A tela principal oferece duas formas de entrada para transmitir a linha de ônibus desejada:
-
-- **Entrada por digitação**: Um teclado numérico em destaque permite que o usuário digite o número da linha com facilidade, utilizando botões grandes e bem espaçados, ideais para pessoas com baixa visão.
-- **Entrada por voz**: Um botão com o ícone de microfone possibilita que o usuário diga a linha do ônibus em voz alta, utilizando o sistema de reconhecimento de fala do aplicativo.
-
-Além disso, há botões visuais de **confirmação (verde)** e **cancelamento (vermelho)**, reforçando o controle do usuário sobre suas ações.
-
-## Acessibilidade em primeiro lugar
-
-O VisuTech foi desenvolvido com foco em acessibilidade digital:
-
-- Compatível com leitores de tela
-- Teclado com contraste elevado
-- Fontes grandes e legíveis
-- Navegação simplificada
-
-## Autonomia e inclusão
-
-Este aplicativo representa um avanço significativo no acesso ao transporte urbano, permitindo que pessoas com deficiência visual identifiquem e comuniquem sua linha de ônibus de forma prática, segura e independente.
-
-A **versão V1.0** marca o início de uma transformação digital acessível, promovendo inclusão social e autonomia.
 
 ![image](https://github.com/user-attachments/assets/2ab5d090-6b4c-4196-bac7-ea4f96eebe20)
 
-# Como utilizar o aplicativo VisuTech
+## Como Funciona (Passo a Passo)
 
-### 1. **Conectar ao dispositivo**
-Logo no topo da tela, há dois botões:
+1. **Inicialização Inteligente**
+   - Ao abrir o app, ele automaticamente:
+     - Verifica conexão Bluetooth ("Conectando ao dispositivo...")
+     - Anuncia: "Aparelho Conectado"
+     - Identifica sua localização: "Você está no ponto:..."
 
-- `Conectar`: Estabelece a comunicação com o dispositivo (por exemplo, um módulo que interage com ônibus ou pontos de parada).
-- `Desconectar`: Encerra a conexão com o sistema.
+2. **Solicitação de Ônibus (Simples e Intuitivo)**
+   - Chacoalhe o celular para ativar
+   - Fale o número da linha (exemplo: "221")
+   - O app confirma: "Procurando ônibus 221"
 
-Quando conectado com sucesso, a mensagem **"Conectado"** aparece em verde, confirmando que o app está pronto para uso.
+3. **Confirmação em Tempo Real**
+   - Quando o ônibus chegar no raio de 60m:
+     - "Ônibus 221 identificado"
+     - "Seu ônibus está chegando"
+   - Ao parar no ponto:
+     - "Ônibus 221 está no ponto"
 
-### 2. **Transmissão da linha do ônibus**
+## Recursos Exclusivos
 
-Você pode inserir o número da linha de ônibus de duas maneiras:
+ **Controle Total por Voz**  
+- Todas as ações são confirmadas por voz  
+- Não precisa tocar na tela  
 
-#### 🟦 **Digitando**
-- Use o teclado numérico na tela para digitar o número da linha desejada.
-- O botão **"X"** apaga o número digitado.
-- O botão **"Enter"** envia a informação para o sistema.
+ **GPS Inteligente**  
+- Anuncia automaticamente seu ponto de ônibus  
+- Avisa em qual ponto de ônibus o usuário se encontra  
 
-#### 🎤 **Por comando de voz**
-- Abaixo do campo de digitação, há o botão de **comando por voz**, com um ícone de microfone.
-- Ao tocar no microfone, você pode **dizer o número da linha**, e o aplicativo reconhecerá automaticamente.
-
-### 3. **Indicação de status**
-- O texto **"Led ligado"** indica que o LED do dispositivo (possivelmente usado como sinal visual para o motorista ou para o usuário) está ativo.
-- Isso pode ser um recurso importante para alertar o motorista sobre a presença de um passageiro com deficiência visual.
-
-## Recursos de acessibilidade
-
-- **Botões grandes e com bom contraste**
-- **Interface limpa e objetiva**
-- **Reconhecimento de voz para maior autonomia**
-- **Compatível com leitores de tela**
+ **Alertas Sonoros**  
+- Notificação quando o ônibus chegar  
 
 # Gabinete/Carcaça do dispositivo
 

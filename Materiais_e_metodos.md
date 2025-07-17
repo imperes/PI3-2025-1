@@ -1,31 +1,8 @@
 # 3. MATERIAIS E MÉTODOS
 
-## Microcontrolador PIC 16F877A
+## Display OLED
 <div style="text-align: center; padding: 10px;">
-  <img src="img/pic16f877a.png" width="30%" alt="PIC 16F877A">
-</div>
-
-### Características
-- Sua frequência de operação chega a 20MHz, sendo utilizado 4MHz;
-- Sua velocidade de processamento é de 200ns por ciclo de instrução;
-- Possui 40 pinos com 5 portas (A, B, C, D, E) e 33 pinos I/O, sendo que 5 pinos, da porta A, podem ser analógicos;
-- Contém baixo consumo de energia, com o Flash da memória EEPROM de alta velocidade e tecnologia.
-### Memórias
-- Até 8Kb por 14 palavras de memória flash do programa;
-- Até 368 por 8 bytes de memória de dados (RAM);
-- Até 256 por 8 bytes de memória de dados EEPROM.
-### Alimentação
-- Sua faixa de tensão de funcionamento vai de 2,0V a 5,5V.
-### Periféricos
-- Possui 100.000 ciclos de leitura/escrita da memória Flash de programa;
-- Possui 1.000.000 ciclos de leitura/escrita de dados da memória EEPROM;
-- Retém os dados da memória EEPROM por até 40 anos;
-- 4 Temporizadores/Contadores;
-- Possibilita interrupção externa através de pinos do microcontrolador.
-
-## Display LCD 16x2
-<div style="text-align: center; padding: 10px;">
-  <img src="img/display16x2.png" width="40%" alt="Display LCD 16x2">
+  <img src="img/display.jpg" width="40%" alt="Display OLED">
 </div>
 
 ## Buzzer
@@ -99,9 +76,9 @@ programados, veja a seguir nas tabelas.
 - Filtro anti-interferência;
 - O Módulo Wireless NRF24L01 pode atuar como emissor ou receptor, apenas realizando uma configuração por software
 
-## Teclado Matricial 4x3
+## Teclado Matricial 4x4
 <div style="text-align: center; padding: 10px;">
-  <img src="img/tecladomatricial4x3.png" width="30%" alt="Teclado Matricial 4x3">
+  <img src="img/teclado_matricial.jpg" width="30%" alt="Teclado Matricial 4x4">
 </div>
 
 

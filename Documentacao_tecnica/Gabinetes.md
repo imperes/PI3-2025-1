@@ -19,6 +19,18 @@ Durante o processo, foram identificadas possíveis melhorias futuras nos gabinet
   <img src="img../case-usuario.png" width="40%" alt="Case">
 </div>
 
+<div style="text-align: center; padding: 10px;">
+  <img src="img../case-usuario0.jpeg" width="40%" alt="Case">
+</div>
+
+<div style="text-align: center; padding: 10px;">
+  <img src="img../case-usuario1.jpeg" width="40%" alt="Case">
+</div>
+
+<div style="text-align: center; padding: 10px;">
+  <img src="img../case-usuario2.jpeg" width="40%" alt="Case">
+</div>
+
 
 ---
 

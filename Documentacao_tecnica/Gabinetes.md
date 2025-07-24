@@ -10,14 +10,15 @@ Durante o processo, foram identificadas possíveis melhorias futuras nos gabinet
 
 
 ## Case Usuário
+
+<div style="text-align: center; padding: 10px;">
+  <img src="img../Ass-case-motorista.png" width="40%" alt="Case Usuário">
+</div>
+
 <div style="text-align: center; padding: 10px;">
   <img src="img../case-usuario.png" width="40%" alt="Case">
 </div>
 
-
-<div style="text-align: center; padding: 10px;">
-  <img src="img../display.jpg" width="40%" alt="Case Usuário">
-</div>
 
 ---
 

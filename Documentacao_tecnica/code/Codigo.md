@@ -53,7 +53,7 @@ Para desenvolver o aplicativo android, foi utilizado o APP Inventor.
   <img src="../img/blocos-app-inventor.png/" width="50%" alt="Blocos APP Inventor">
 </div>
 
-### 1.2 Teste do código + aplicativo android
+### 1.2 Teste do código + Aplicativo Android
 
 Compilando o código para testar a comunicação bluetooth da ESP32 e fazendo o download do aplicativo no celular, seguimos para testar.
 Adicionei no teste o comando por voz com uma API do Google por meio do APP Inventor, uma opção que irá ajudar muito no desenvolvimento do aplicativo final.

@@ -82,7 +82,6 @@ programados, veja a seguir nas tabelas.
 </div>
 
 
-
 ## Microcontrolador ESP32 DevKit-v1
 <div style="text-align: center; padding: 10px;">
   <img src="img/esp32-devkit-v1.jpg" width="30%" alt="ESP 32">
@@ -189,14 +188,21 @@ O orçamento desenvolvido foi com base no antigo, levando em conta que será dad
   <img src="img/orcamento_total_novo.png" width="30%" alt="Orçamento do protótipo total em 2025">
 </div>
 
-### 3.3 Vantagens da Nova Versão
+### 3.3 Vantagens da Nova Versão e Arquitetura do Sistema Atualizado
 
 ✔ **Autonomia:**  
 - Funciona sem internet (apenas RF e BLueTooth)    
 
 ✔ **Acessibilidade:**  
 - Controle por voz e gestos  
-- Feedback por áudio, visual e vibração 
+- Feedback por áudio, visual e vibração
+
+O projeto original recebeu significativas melhorias tecnológicas:
+
+**Nova Configuração:**
+- **Microcontrolador:** ESP32 DevKit-V1 (substituindo o PIC16F877A)
+- **Módulo RF:** NRF24L01+ com alcance de ~60m
+- **Interface:** Aplicativo VisuTech + dispositivo
 
 ## 3.4 Placas de circuito Impresso
 

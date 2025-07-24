@@ -26,7 +26,6 @@ Durante o processo, foram identificadas possíveis melhorias futuras nos gabinet
   <img src="img../case-motorista.jpg" width="40%" alt="Case Motorista">
 </div>
 
-## Case Motorista
 <div style="text-align: center; padding: 10px;">
   <img src="img../case-motorista.png" width="40%" alt="Case Motorista">
 </div>

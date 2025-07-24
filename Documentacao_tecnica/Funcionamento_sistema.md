@@ -108,9 +108,6 @@ As funcionalidades descritas abaixo referem-se ao que cada placa do sistema ser�
 ### 2.3.1 Funcionamento dos Dispositivos
 
 As funcionalidades listadas abaixo correspondem à previsão de funcionamento do firmware. Elas serão desenvolvidas com foco nas necessidades principais do projeto, podendo ser expandidas ou ajustadas conforme novas demandas surgirem.
-<div style="text-align: center; padding: 10px;">
-  <img src="img/funcionamento_firmware.png" width="50%" alt="Funcionamento do Firmware">
-</div>
 
 ## Como Funciona APP VisuTech (Passo a Passo)
 
@@ -145,3 +142,6 @@ As funcionalidades listadas abaixo correspondem à previsão de funcionamento do
  **Alertas Sonoros**  
 - Notificação quando o ônibus chegar
 
+<div style="text-align: center; padding: 10px;">
+  <img src="img/funcionamento_firmware.png" width="50%" alt="Funcionamento do Firmware">
+</div>

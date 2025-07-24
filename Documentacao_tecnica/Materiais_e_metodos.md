@@ -2,17 +2,17 @@
 
 ## Display OLED
 <div style="text-align: center; padding: 10px;">
-  <img src="img/display.jpg" width="40%" alt="Display OLED">
+  <img src="../img/display.jpg" width="40%" alt="Display OLED">
 </div>
 
 ## Buzzer
 <div style="text-align: center; padding: 10px;">
-  <img src="img/buzzer.png" width="30%" alt="Buzzer">
+  <img src="../img/buzzer.png" width="30%" alt="Buzzer">
 </div>
 
 ## Módulo Wireless NRF24L01
 <div style="text-align: center; padding: 10px;">
-  <img src="img/nrf24l01.png" width="30%" alt="NRF24L01">
+  <img src="../img/nrf24l01.png" width="30%" alt="NRF24L01">
 </div>
 
 ### Características
@@ -78,13 +78,13 @@ programados, veja a seguir nas tabelas.
 
 ## Teclado Matricial 4x4
 <div style="text-align: center; padding: 10px;">
-  <img src="img/teclado_matricial.jpg" width="30%" alt="Teclado Matricial 4x4">
+  <img src="../img/teclado_matricial.jpg" width="30%" alt="Teclado Matricial 4x4">
 </div>
 
 
 ## Microcontrolador ESP32 DevKit-v1
 <div style="text-align: center; padding: 10px;">
-  <img src="img/esp32-devkit-v1.jpg" width="30%" alt="ESP 32">
+  <img src="../img/esp32-devkit-v1.jpg" width="30%" alt="ESP 32">
 </div>
 
 ### Características Técnicas da ESP32 DevKit V1
@@ -159,19 +159,19 @@ O orçamento abaixo foi feito em 2017 e a compra dos materiais foram em lojas f�
 #### Orçamento do protótipo do transmissor 2017 (usuário/deficiente visual)
 
 <div style="text-align: center; padding: 10px;">
-  <img src="img/orcamento_tx_antigo.png" width="50%" alt="Orçamento do protótipo do transmissor em 2017">
+  <img src="../img/orcamento_tx_antigo.png" width="50%" alt="Orçamento do protótipo do transmissor em 2017">
 </div>
 
 #### Orçamento do protótipo do receptor 2017 (veículo/ônibus)
 
 <div style="text-align: center; padding: 10px;">
-  <img src="img/orcamento_rx_antigo.png" width="50%" alt="Orçamento do protótipo do receptor em 2017">
+  <img src="../img/orcamento_rx_antigo.png" width="50%" alt="Orçamento do protótipo do receptor em 2017">
 </div>
 
 #### Orçamento total 2017
 
 <div style="text-align: center; padding: 10px;">
-  <img src="img/orcamento_total_antigo.png" width="30%" alt="Orçamento do protótipo total em 2017">
+  <img src="../img/orcamento_total_antigo.png" width="30%" alt="Orçamento do protótipo total em 2017">
 </div>
 
 ### 3.1.2 Orçamento do novo protótipo (2025)
@@ -179,13 +179,13 @@ O orçamento desenvolvido foi com base no antigo, levando em conta que será dad
 #### Orçamento do protótipo do transmissor 2025 (usuário/deficiente visual)
 
 <div style="text-align: center; padding: 10px;">
-  <img src="img/orcamento_tx_novo_v2.png" width="50%" alt="Orçamento do protótipo do transmissor em 2025">
+  <img src="../img/orcamento_tx_novo_v2.png" width="50%" alt="Orçamento do protótipo do transmissor em 2025">
 </div>
 
 #### Orçamento total 2017/2025
 
 <div style="text-align: center; padding: 10px;">
-  <img src="img/orcamento_total_novo.png" width="30%" alt="Orçamento do protótipo total em 2025">
+  <img src="../img/orcamento_total_novo.png" width="30%" alt="Orçamento do protótipo total em 2025">
 </div>
 
 ### 3.3 Vantagens da Nova Versão e Arquitetura do Sistema Atualizado
@@ -210,44 +210,34 @@ O projeto original recebeu significativas melhorias tecnológicas:
 
 Também foi tomado o cuidado de manter as dimensões da placa reduzidas, garantindo que ela seja compacta o suficiente para ser instalada na parte traseira de um gabinete acoplado ao celular.
 
-<div style="text-align: center; padding: 10px;">
-  <img src="img/PCB.png" width="50%" alt="PCB">
-</div>
-
 Também foram adicionados os modelos 3D dos componentes e da placa no projeto do Altium Designer, permitindo uma visualização mais realista do dispositivo final. Isso facilita a verificação do encaixe mecânico e auxilia no planejamento do posicionamento dentro do gabinete.
 
-<div style="text-align: center; padding: 10px;">
-  <img src="img/PCB_3D_TOP.png" width="50%" alt="PCB">
-</div>
-
 Foi realizado no software Proteus o esquemático da PCB do Receptor (Motorista), demonstrado na imagem abaixo:
-<div style="text-align: center; padding: 10px;">
-  <img src="img/esquematico_pcb_receptor.PNG" width="50%" alt="PCB">
-</div>
+
 
 ### 3.4.2 Hardware Desenvolvido
 **Transmissor (controle do deficiente)**
 
 <div style="text-align: center; padding: 10px;">
-  <img src="./img/Transmissor (controle do deficiente).jpeg" width="40%" alt="Parte Interna (circuito - motorista)">
+  <img src="../img/Transmissor (controle do deficiente).jpeg" width="40%" alt="Parte Interna (circuito - motorista)">
 </div>
 
 **Parte Interna (circuito)**
 
 <div style="text-align: center; padding: 10px;">
-  <img src="./img/Parte Interna (circuito).jpeg" width="40%" alt="Parte Interna (circuito - motorista)">
+  <img src="../img/Parte Interna (circuito).jpeg" width="40%" alt="Parte Interna (circuito - motorista)">
 </div>
 
 **Receptor (Motorista)**
 
 <div style="text-align: center; padding: 10px;">
-  <img src="./img/Receptor (Motorista).jpeg" width="40%" alt="Parte Interna (circuito - motorista)">
+  <img src="../img/Receptor (Motorista).jpeg" width="40%" alt="Parte Interna (circuito - motorista)">
 </div>
 
 **Parte Interna (circuito - motorista)**
 
 <div style="text-align: center; padding: 10px;">
-  <img src="./img/Parte Interna (circuito - motorista).jpeg" width="40%" alt="Parte Interna (circuito - motorista)">
+  <img src="../img/Parte Interna (circuito - motorista).jpeg" width="40%" alt="Parte Interna (circuito - motorista)">
 </div>
 
 ### 3.4.3 Aplicativo VisuTech (Usuário) 

@@ -189,11 +189,18 @@ O orçamento desenvolvido foi com base no antigo, levando em conta que será dad
   <img src="img/orcamento_total_novo.png" width="30%" alt="Orçamento do protótipo total em 2025">
 </div>
 
+### 3.3 Vantagens da Nova Versão
+
+✔ **Autonomia:**  
+- Funciona sem internet (apenas RF e BLueTooth)    
+
+✔ **Acessibilidade:**  
+- Controle por voz e gestos  
+- Feedback por áudio, visual e vibração 
+
 ## 3.4 Placas de circuito Impresso
 
 ### 3.4.1 Hardware do Usuário
-
-
 
 Também foi tomado o cuidado de manter as dimensões da placa reduzidas, garantindo que ela seja compacta o suficiente para ser instalada na parte traseira de um gabinete acoplado ao celular.
 
@@ -251,38 +258,6 @@ O **VisuTech** é um aplicativo pioneiro desenvolvido exclusivamente para pessoa
 
 ![image](https://github.com/user-attachments/assets/2ab5d090-6b4c-4196-bac7-ea4f96eebe20)
 
-## Como Funciona (Passo a Passo)
-
-1. **Inicialização Inteligente**
-   - Ao abrir o app, ele automaticamente:
-     - Verifica conexão Bluetooth ("Conectando ao dispositivo...")
-     - Anuncia: "Aparelho Conectado"
-     - Identifica sua localização: "Você está no ponto:..."
-
-2. **Solicitação de Ônibus (Simples e Intuitivo)**
-   - Chacoalhe o celular para ativar
-   - Fale o número da linha (exemplo: "221")
-   - O app confirma: "Procurando ônibus 221"
-
-3. **Confirmação em Tempo Real**
-   - Quando o ônibus chegar no raio de 60m:
-     - "Ônibus 221 identificado"
-     - "Seu ônibus está chegando"
-   - Ao parar no ponto:
-     - "Ônibus 221 está no ponto"
-
-## Recursos Exclusivos
-
- **Controle Total por Voz**  
-- Todas as ações são confirmadas por voz  
-- Não precisa tocar na tela  
-
- **GPS Inteligente**  
-- Anuncia automaticamente seu ponto de ônibus  
-- Avisa em qual ponto de ônibus o usuário se encontra  
-
- **Alertas Sonoros**  
-- Notificação quando o ônibus chegar
 
 <p align="justyfied">
   <a href="./code/visutech.md"><strong>Detalhes do código e desenvolvimento do aplicativo VisuTech</strong></a><br>

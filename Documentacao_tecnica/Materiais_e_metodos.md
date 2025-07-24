@@ -265,11 +265,6 @@ O **VisuTech** é um aplicativo pioneiro desenvolvido exclusivamente para pessoa
 ![image](https://github.com/user-attachments/assets/2ab5d090-6b4c-4196-bac7-ea4f96eebe20)
 
 
-<p align="justyfied">
-  <a href="./code/visutech.md"><strong>Detalhes do código e desenvolvimento do aplicativo VisuTech</strong></a><br>
-</p>
-
-
 ---
 
 <p align="justyfied">

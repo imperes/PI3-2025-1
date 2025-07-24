@@ -27,29 +27,29 @@ O esquemático elétrico foi desenvolvido utilizando o software Altium Designer 
 
 ## Esquemático Elétrico - Motorista
 <div style="text-align: center; padding: 10px;">
-  <img src="img/esquematico-motorista.jpg" width="40%" alt="Esquemático Elétrico Motorista">
+  <img src="img../esquematico-motorista.jpg" width="40%" alt="Esquemático Elétrico Motorista">
 </div>
 
 ## Esquemático Elétrico - Receptor
 <div style="text-align: center; padding: 10px;">
-  <img src="img/esquematico_pcb_receptor.PNG" width="40%" alt="Esquemático Elétrico Receptor">
+  <img src="img../esquematico_pcb_receptor.PNG" width="40%" alt="Esquemático Elétrico Receptor">
 </div>
 
 ## Esquemático Elétrico - Usuário
 <div style="text-align: center; padding: 10px;">
-  <img src="img/esquematico_pcb_usuario.PNG" width="40%" alt="Esquemático Elétrico Usuário">
+  <img src="img../esquematico_pcb_usuario.PNG" width="40%" alt="Esquemático Elétrico Usuário">
 </div>
 
 Com base no esquemático, foi desenvolvida uma placa de circuito impresso (PCI) no Altium Designer. As trilhas e pads foram desenhados com larguras maiores para facilitar a fabricação manual, especialmente no processo de transferência térmica com papel glossy. Isso melhora a transferência da tinta para a placa de cobre e reduz falhas durante a corrosão com percloreto de ferro.
 
 ## PCB - Motorista
 <div style="text-align: center; padding: 10px;">
-  <img src="img/Pcb-motorista.jpg" width="40%" alt="PCB Motorista">
+  <img src="img../Pcb-motorista.jpg" width="40%" alt="PCB Motorista">
 </div>
 
 ## PCB - Usuário
 <div style="text-align: center; padding: 10px;">
-  <img src="img/Pcb-usuario.jpg" width="40%" alt="PCB Usuário">
+  <img src="img../Pcb-usuario.jpg" width="40%" alt="PCB Usuário">
 </div>
 
 --- 
@@ -66,11 +66,11 @@ Por fim, foi adicionado um buzzer com função de alerta sonoro, ativado sempre 
 
 ## Placa - Motorista
 <div style="text-align: center; padding: 10px;">
-  <img src="img/placa-motorista.jpg" width="40%" alt="Placa Motorista">
+  <img src="img../placa-motorista.jpg" width="40%" alt="Placa Motorista">
 </div>
 
 ## Placa - Usuário
 <div style="text-align: center; padding: 10px;">
-  <img src="img/placa-usuario.jpg" width="40%" alt="Placa Usuário">
+  <img src="img../placa-usuario.jpg" width="40%" alt="Placa Usuário">
 </div>
 

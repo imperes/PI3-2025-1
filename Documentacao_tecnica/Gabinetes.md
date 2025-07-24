@@ -1,6 +1,5 @@
 # 1. GABINETES
 
-
 Os cases do usuário e do motorista foram desenvolvidos utilizando o software gratuito Onshape, disponível em: https://www.onshape.com/en. Inicialmente, os arquivos .STEP das placas foram exportados do Altium e carregados no projeto do Onshape.
 
 Para o case do usuário, o principal objetivo foi criar um invólucro que acomodasse a placa de forma segura, sem ser grande ou pesado, permitindo que fosse facilmente transportado no bolso ou na mochila. Foi necessário atenção especial ao posicionamento do furo para a entrada USB, garantindo acesso sem comprometer a integridade do case. Também se tomou cuidado para que a estrutura não ficasse frágil. Além disso, foram projetadas tampas deslizantes para facilitar a desmontagem e a manutenção do dispositivo.
@@ -12,41 +11,41 @@ Durante o processo, foram identificadas possíveis melhorias futuras nos gabinet
 
 ## Case Usuário
 <div style="text-align: center; padding: 10px;">
-  <img src="img/case-usuario.png" width="40%" alt="Case">
+  <img src="img../case-usuario.png" width="40%" alt="Case">
 </div>
 
 
 <div style="text-align: center; padding: 10px;">
-  <img src="img/display.jpg" width="40%" alt="Case Usuário">
+  <img src="img../display.jpg" width="40%" alt="Case Usuário">
 </div>
 
 ---
 
 ## Case Motorista
 <div style="text-align: center; padding: 10px;">
-  <img src="img/case-motorista.jpg" width="40%" alt="Case Motorista">
+  <img src="img../case-motorista.jpg" width="40%" alt="Case Motorista">
 </div>
 
 ## Case Motorista
 <div style="text-align: center; padding: 10px;">
-  <img src="img/case-motorista.png" width="40%" alt="Case Motorista">
+  <img src="img../case-motorista.png" width="40%" alt="Case Motorista">
 </div>
 
 ## Gabinete
 <div style="text-align: center; padding: 10px;">
-  <img src="img/gabinete-baixo.png" width="40%" alt="Gabinete Parte de Baixo">
+  <img src="img../gabinete-baixo.png" width="40%" alt="Gabinete Parte de Baixo">
 </div>
 
 <div style="text-align: center; padding: 10px;">
-  <img src="img/gabinete-superior.png" width="40%" alt="Gabinete Parte de Cima">
+  <img src="img../gabinete-superior.png" width="40%" alt="Gabinete Parte de Cima">
 </div>
 
 <div style="text-align: center; padding: 10px;">
-  <img src="img/gabinete-lateral.png" width="40%" alt="Gabinete Parte Lateral">
+  <img src="img../gabinete-lateral.png" width="40%" alt="Gabinete Parte Lateral">
 </div>
 
 <div style="text-align: center; padding: 10px;">
-  <img src="img/gabinete-traseiro.png" width="40%" alt="Gabinete Parte Traseira">
+  <img src="img../gabinete-traseiro.png" width="40%" alt="Gabinete Parte Traseira">
 </div>
 
 ---

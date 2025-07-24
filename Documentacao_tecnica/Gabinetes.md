@@ -12,23 +12,23 @@ Durante o processo, foram identificadas possíveis melhorias futuras nos gabinet
 ## Case Usuário
 
 <div style="text-align: center; padding: 10px;">
-  <img src="img../Ass-case-motorista.png" width="40%" alt="Case Usuário">
+  <img src="../img/Ass-case-motorista.png" width="40%" alt="Case Usuário">
 </div>
 
 <div style="text-align: center; padding: 10px;">
-  <img src="img../case-usuario.png" width="40%" alt="Case">
+  <img src="../img/case-usuario.png" width="40%" alt="Case">
 </div>
 
 <div style="text-align: center; padding: 10px;">
-  <img src="img../case-usuario0.jpeg" width="40%" alt="Case">
+  <img src="../img/case-usuario0.jpeg" width="40%" alt="Case">
 </div>
 
 <div style="text-align: center; padding: 10px;">
-  <img src="img../case-usuario1.jpeg" width="40%" alt="Case">
+  <img src="../img/case-usuario1.jpeg" width="40%" alt="Case">
 </div>
 
 <div style="text-align: center; padding: 10px;">
-  <img src="img../case-usuario2.jpeg" width="40%" alt="Case">
+  <img src="../img/case-usuario2.jpeg" width="40%" alt="Case">
 </div>
 
 
@@ -36,28 +36,28 @@ Durante o processo, foram identificadas possíveis melhorias futuras nos gabinet
 
 ## Case Motorista
 <div style="text-align: center; padding: 10px;">
-  <img src="img../case-motorista.jpg" width="40%" alt="Case Motorista">
+  <img src="../img/case-motorista.jpg" width="40%" alt="Case Motorista">
 </div>
 
 <div style="text-align: center; padding: 10px;">
-  <img src="img../case-motorista.png" width="40%" alt="Case Motorista">
+  <img src="../img/case-motorista.png" width="40%" alt="Case Motorista">
 </div>
 
 ## Gabinete
 <div style="text-align: center; padding: 10px;">
-  <img src="img../gabinete-baixo.png" width="40%" alt="Gabinete Parte de Baixo">
+  <img src="../img/gabinete-baixo.png" width="40%" alt="Gabinete Parte de Baixo">
 </div>
 
 <div style="text-align: center; padding: 10px;">
-  <img src="img../gabinete-superior.png" width="40%" alt="Gabinete Parte de Cima">
+  <img src="../img/gabinete-superior.png" width="40%" alt="Gabinete Parte de Cima">
 </div>
 
 <div style="text-align: center; padding: 10px;">
-  <img src="img../gabinete-lateral.png" width="40%" alt="Gabinete Parte Lateral">
+  <img src="../img/gabinete-lateral.png" width="40%" alt="Gabinete Parte Lateral">
 </div>
 
 <div style="text-align: center; padding: 10px;">
-  <img src="img../gabinete-traseiro.png" width="40%" alt="Gabinete Parte Traseira">
+  <img src="../img/gabinete-traseiro.png" width="40%" alt="Gabinete Parte Traseira">
 </div>
 
 ---

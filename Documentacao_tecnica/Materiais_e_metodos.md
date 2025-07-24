@@ -420,50 +420,6 @@ O **VisuTech** é um aplicativo pioneiro desenvolvido exclusivamente para pessoa
   <a href="./code/visutech.md"><strong>Detalhes do código e desenvolvimento do aplicativo VisuTech</strong></a><br>
 </p>
 
-# Case do dispositivo (úsuário)
-
-![image](https://github.com/user-attachments/assets/7d37304d-29b1-4373-8cb9-fc68decef629)
-
-Os dois componentes estão inseridos em um **invólucro retangular** projetado para ser fixado na parte traseira do celular. Esse posicionamento permite que o sistema funcione de forma **discreta** e **integrada** ao uso do dispositivo móvel.
-
-**Visão frontal**
-
-<div style="text-align: center; padding: 10px;">
-  <img src="./img/gabinete-superior.png" width="40%" alt="Visão Frontal">
-</div>
-
-
-**Visão traseira**
-
-<div style="text-align: center; padding: 10px;">
-  <img src="./img/gabinete-traseiro.png" width="40%" alt="Visão Traseira">
-</div>
-
-
-**Visão inferior**
-
-<div style="text-align: center; padding: 10px;">
-  <img src="./img/gabinete-baixo.png" width="40%" alt="Visão Inferior">
-</div>
-
-
-**Visão lateral**
-
-<div style="text-align: center; padding: 10px;">
-  <img src="./img/gabinete-lateral.png" width="40%" alt="Visão Lateral">
-</div>
-
-### Case desenvolvido
-
-<div style="text-align: center; padding: 10px;">
-  <img src="./img/usuario-case1.jpg" width="50%" alt="Visão cima">
-</div>
-<div style="text-align: center; padding: 10px;">
-  <img src="./img/usuario-case2.jpg" width="50%" alt="Visão Lateral">
-</div>
-<div style="text-align: center; padding: 10px;">
-  <img src="./img/usuario-case3.jpg" width="50%" alt="Visão baixo">
-</div>
 
 ---
 

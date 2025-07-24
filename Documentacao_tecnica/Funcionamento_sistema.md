@@ -1,14 +1,5 @@
 # FUNCIONAMENTO SISTEMA
 
-### 1 Arquitetura do Sistema Atualizado
-
-O projeto original recebeu significativas melhorias tecnológicas:
-
-**Nova Configuração:**
-- **Microcontrolador:** ESP32 DevKit-V1 (substituindo o PIC16F877A)
-- **Módulo RF:** NRF24L01+ com alcance de ~60m
-- **Interface:** Aplicativo VisuTech + dispositivo
-
 ### 1.2 Dispositivo do Usuário
 
 #### Hardware

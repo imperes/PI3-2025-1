@@ -35,7 +35,7 @@
 6. Motorista confirma parada
 7. Usuário recebe confirmação por voz
 
-<img src="img/fluxo_comunicacao_projeto.png"
+<img src="../img/fluxo_comunicacao_projeto.png"
      width="120%"
      style="padding: 10px">
 
@@ -102,7 +102,7 @@ As funcionalidades descritas abaixo referem-se ao que cada placa do sistema ser�
   - Áudio do próprio aparelho celular
 
 <div style="text-align: center; padding: 10px;">
-  <img src="img/diagrama_funcionalidades.png" width="50%" alt="Diagrama de blocos do funcionamento do circuito">
+  <img src="../img/diagrama_funcionalidades.png" width="50%" alt="Diagrama de blocos do funcionamento do circuito">
 </div>
 
 ### 2.3.1 Funcionamento dos Dispositivos
@@ -143,7 +143,7 @@ As funcionalidades listadas abaixo correspondem à previsão de funcionamento do
 - Notificação quando o ônibus chegar
 
 <div style="text-align: center; padding: 10px;">
-  <img src="img/funcionamento_firmware.png" width="50%" alt="Funcionamento do Firmware">
+  <img src="../img/funcionamento_firmware.png" width="50%" alt="Funcionamento do Firmware">
 </div>
 
 

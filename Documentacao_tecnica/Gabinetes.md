@@ -9,19 +9,45 @@ Já no case do motorista, os cuidados se concentraram em garantir uma caixa mais
 
 Durante o processo, foram identificadas possíveis melhorias futuras nos gabinetes. Uma delas está relacionada ao tipo de impressão 3D: foi utilizada uma impressora de filamento (FDM), porém o uso de uma impressora de resina poderia proporcionar um acabamento mais refinado e maior rigidez. Outra melhoria envolve o dimensionamento mais preciso da entrada USB e dos pontos de fixação dos componentes.
 
-## Case Usuário
 
-Inserir imagens (deixei todas no repositorio)
-colocar primeiro as do onshape
-depois as do case 
+## Case Usuário
+<div style="text-align: center; padding: 10px;">
+  <img src="img/case-usuario.png" width="40%" alt="Case">
+</div>
+
+
+<div style="text-align: center; padding: 10px;">
+  <img src="img/display.jpg" width="40%" alt="Case Usuário">
+</div>
 
 ---
+
 ## Case Motorista
+<div style="text-align: center; padding: 10px;">
+  <img src="img/case-motorista.jpg" width="40%" alt="Case Motorista">
+</div>
 
-Inserir imagens (deixei todas no repositorio)
-colocar primeiro as do onshape
-depois as do case 
+## Case Motorista
+<div style="text-align: center; padding: 10px;">
+  <img src="img/case-motorista.png" width="40%" alt="Case Motorista">
+</div>
 
+## Gabinete
+<div style="text-align: center; padding: 10px;">
+  <img src="img/gabinete-baixo.png" width="40%" alt="Gabinete Parte de Baixo">
+</div>
+
+<div style="text-align: center; padding: 10px;">
+  <img src="img/gabinete-superior.png" width="40%" alt="Gabinete Parte de Cima">
+</div>
+
+<div style="text-align: center; padding: 10px;">
+  <img src="img/gabinete-lateral.png" width="40%" alt="Gabinete Parte Lateral">
+</div>
+
+<div style="text-align: center; padding: 10px;">
+  <img src="img/gabinete-traseiro.png" width="40%" alt="Gabinete Parte Traseira">
+</div>
 
 ---
 

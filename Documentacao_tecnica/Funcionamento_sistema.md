@@ -145,3 +145,9 @@ As funcionalidades listadas abaixo correspondem à previsão de funcionamento do
 <div style="text-align: center; padding: 10px;">
   <img src="img/funcionamento_firmware.png" width="50%" alt="Funcionamento do Firmware">
 </div>
+
+
+<p align="justyfied">
+  <a href="./code/visutech.md"><strong>Detalhes do código e desenvolvimento do aplicativo VisuTech</strong></a><br>
+</p>
+

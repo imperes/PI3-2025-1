@@ -1,8 +1,6 @@
 # FUNCIONAMENTO SISTEMA
 
-## 1 Atualização e Melhorias do Projeto
-
-### 1.2 Arquitetura do Sistema Atualizado
+### 1 Arquitetura do Sistema Atualizado
 
 O projeto original recebeu significativas melhorias tecnológicas:
 
@@ -11,7 +9,7 @@ O projeto original recebeu significativas melhorias tecnológicas:
 - **Módulo RF:** NRF24L01+ com alcance de ~60m
 - **Interface:** Aplicativo VisuTech + dispositivo
 
-### 1.2.2 Dispositivo do Usuário
+### 1.2 Dispositivo do Usuário
 
 #### Hardware
 - **Conexões:**
@@ -28,7 +26,7 @@ O projeto original recebeu significativas melhorias tecnológicas:
   - Geolocalização (API Google)
   - Feedback por voz (Google TTS)
 
-### 1.2.3 Dispositivo Veicular
+### 1.2.2 Dispositivo Veicular
 
 **Painel do Motorista:**
 - Display
@@ -36,7 +34,7 @@ O projeto original recebeu significativas melhorias tecnológicas:
 - Botão físico de confirmação
 - Alerta sonoro (Buzzer) e visual (Display)
 
-### 1.2.4 Fluxo de Operação
+### 1.2.3 Fluxo de Operação
 
 1. Usuário chacoalha o smartphone
 2. App solicita comando de voz
@@ -122,3 +120,37 @@ As funcionalidades listadas abaixo correspondem à previsão de funcionamento do
 <div style="text-align: center; padding: 10px;">
   <img src="img/funcionamento_firmware.png" width="50%" alt="Funcionamento do Firmware">
 </div>
+
+## Como Funciona APP VisuTech (Passo a Passo)
+
+1. **Inicialização Inteligente**
+   - Ao abrir o app, ele automaticamente:
+     - Verifica conexão Bluetooth ("Conectando ao dispositivo...")
+     - Anuncia: "Aparelho Conectado"
+     - Identifica sua localização: "Você está no ponto:..."
+
+2. **Solicitação de Ônibus (Simples e Intuitivo)**
+   - Chacoalhe o celular para ativar
+   - Fale o número da linha (exemplo: "221")
+   - O app confirmia: "Procurando ônibus 221"
+
+3. **Confirmação em Tempo Real**
+   - Quando o ônibus chegar no raio de 60m:
+     - "Ônibus 221 identificado"
+     - "Seu ônibus está chegando"
+   - Ao parar no ponto:
+     - "Ônibus 221 está no ponto"
+
+## Recursos Exclusivos
+
+ **Controle Total por Voz**  
+- Todas as ações são confirmadas por voz  
+- Não precisa tocar na tela  
+
+ **GPS Inteligente**  
+- Anuncia automaticamente seu ponto de ônibus  
+- Avisa em qual ponto de ônibus o usuário se encontra  
+
+ **Alertas Sonoros**  
+- Notificação quando o ônibus chegar
+

@@ -1,4 +1,4 @@
-# DIAGRÂMAS ELÉTRICOS
+# DIAGRAMAS ELÉTRICOS
 ---
 ## Placa Usuário 
 
